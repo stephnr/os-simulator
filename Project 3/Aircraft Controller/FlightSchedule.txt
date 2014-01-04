@@ -1,0 +1,10 @@
+JetBlue 712 D 2 New_York Las_Vegas 
+American_Airlines 133 D 10 New_York Puerto_Rico
+United_Airlines 245 A 3 Detroit New_York
+Southwest 783 D 12 New_York Jamaica
+Alaska_Airlines 673 A 1 Alaska New_York
+Air_Force_1 123 D 7 New_York Washington
+Terrestrial_Airlines 1337 A 2 ??? New_York
+JetBlue 987 A 3 Mexico New_York
+American_Airlines 111 A 20 Bermuda New_York
+Godly_Airlines 156 D 8 New_York Heaven

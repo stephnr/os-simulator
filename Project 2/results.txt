@@ -1,0 +1,2003 @@
+GLOBAL TIME: 0
+CPU TIME: 0
+
+GLOBAL TIME: 1
+CPU TIME: 0
+
+STARTING WORK ON: 
+ID: 0 Name: proc_13900 State: e   Priority: 16 Arrival Time: 1    CPU Burst Time: 96   	XAR: 2BCA7C   XDI: 463A7A   XDO: A0876E   PC: 57A7E9   IR: B3F3B2   EMIT: 214497   RR: F5DD02   PSW: FCA511 Register Values:B6CA43 4FD3D1 D60DB0 8EAE62 9F7F6B 57E62D BE79E7 FDDCE6 
+
+BURST REACHED...now terminating...
+
+ID: 0 Name: proc_13900 State: t   Priority: 16 Arrival Time: 1    CPU Burst Time: 96   	XAR: 3638c3   XDI: 933dc1   XDO: 48607a   PC: 92688c   IR: 23e80c   EMIT: 2666ab   RR: f448b1   PSW: c3da0a Register Values:48d287 14d640 223533 c83fba de9a87 dc0529 35b7ad 512873 
+
+GLOBAL TIME: 98
+CPU TIME: 96
+
+STARTING WORK ON: 
+ID: 1 Name: proc_55584 State: e   Priority: 19 Arrival Time: 1    CPU Burst Time: 160  	XAR: A22555   XDI: FDE65E   XDO: 9A3896   PC: A9B9D9   IR: 65C47D   EMIT: D4A4CE   RR: F655CE   PSW: 8CD723 Register Values:EA16D9 64BD8 DCD69B 117922 576817 4DCCFD 1FEA0E FC3CDD 
+
+BURST REACHED...now terminating...
+
+ID: 1 Name: proc_55584 State: t   Priority: 19 Arrival Time: 1    CPU Burst Time: 160  	XAR: e53d34   XDI: c4d341   XDO: 84a8c2   PC: 4ca159   IR: c7f40b   EMIT: 68fc00   RR: ba879d   PSW: 13f906 Register Values:ea92d4 a8024f abd010 acf041 e70fed 2ca380 dac3ca 8d138e 
+
+GLOBAL TIME: 259
+CPU TIME: 160
+
+STARTING WORK ON: 
+ID: 2 Name: proc_60744 State: e   Priority: -14 Arrival Time: 2    CPU Burst Time: 292  	XAR: 7810E9   XDI: B4548E   XDO: 9A14D5   PC: A7587A   IR: 41C51    EMIT: 623490   RR: B7308E   PSW: 2C6F53 Register Values:2AC756 A6548F 4E04C5 DBF446 676437 9A0B6C 3E3A08 4A7534 
+
+BURST REACHED...now terminating...
+
+ID: 2 Name: proc_60744 State: t   Priority: -14 Arrival Time: 2    CPU Burst Time: 292  	XAR: ae07fc   XDI: a7c0b4   XDO: 3faa54   PC: 10a75f   IR: 80e2d2   EMIT: 66ceb5   RR: 4204a6   PSW: 53bd65 Register Values:991f66 96c99b 342f1b 429f06 57f9b8 d1e3f6 5fb682 36631a 
+
+GLOBAL TIME: 552
+CPU TIME: 292
+
+STARTING WORK ON: 
+ID: 3 Name: proc_53649 State: e   Priority: -7 Arrival Time: 2    CPU Burst Time: 172  	XAR: 85B2EB   XDI: 3CF59A   XDO: 30198D   PC: FA29A7   IR: F1B89D   EMIT: BB39E2   RR: A71FA0   PSW: E7BDD6 Register Values:E25262 44546A 6B130A 9B0F83 7F2EC9 CA057E 6EF771 CE4D 
+
+BURST REACHED...now terminating...
+
+ID: 3 Name: proc_53649 State: t   Priority: -7 Arrival Time: 2    CPU Burst Time: 172  	XAR: 4e0715   XDI: a4035a   XDO: 7fed26   PC: 367ce5   IR: 17ed8f   EMIT: 2575e7   RR: add33d   PSW: f28842 Register Values:3d963b 146f9f acfc2a 70a3cd 5fc6a8 54a202 358dff 487379 
+
+GLOBAL TIME: 725
+CPU TIME: 172
+
+STARTING WORK ON: 
+ID: 4 Name: proc_54514 State: e   Priority: 4  Arrival Time: 2    CPU Burst Time: 151  	XAR: 3C413D   XDI: 2F8D52   XDO: E7A860   PC: 85BBA8   IR: 6BD08    EMIT: BF1B22   RR: FBF582   PSW: 247484 Register Values:5A641B F62CA5 2A4A7C D1D1B1 C3D676 837D72 746A54 3DDA41 
+
+BURST REACHED...now terminating...
+
+ID: 4 Name: proc_54514 State: t   Priority: 4  Arrival Time: 2    CPU Burst Time: 151  	XAR: 6713d8   XDI: 368d4f   XDO: 5687b9   PC: bb22f3   IR: a89791   EMIT: ad74b2   RR: c5e70f   PSW: c547ce Register Values:295f7b 123970 85f2ef d9a916 9acaac 5ad609 6797bd f1cfd7 
+
+GLOBAL TIME: 877
+CPU TIME: 151
+
+STARTING WORK ON: 
+ID: 5 Name: proc_45279 State: e   Priority: 15 Arrival Time: 2    CPU Burst Time: 8    	XAR: 30BA6E   XDI: AB62FD   XDO: 28ADD8   PC: A5BE97   IR: 484C7A   EMIT: 480472   RR: 92387A   PSW: 81414C Register Values:8D2014 76A6EE 54E811 D55436 6B09F9 B447EB 394EF2 EE240E 
+
+BURST REACHED...now terminating...
+
+ID: 5 Name: proc_45279 State: t   Priority: 15 Arrival Time: 2    CPU Burst Time: 8    	XAR: e509ad   XDI: 7b36f1   XDO: 87cc9b   PC: 2443fb   IR: 1dfa79   EMIT: 9a77dd   RR: ed6bc2   PSW: 4dbb29 Register Values:5ce99f 32c390 fe1dbe 95f3ee 4cef49 de24df f1e7cf e2bd66 
+
+GLOBAL TIME: 886
+CPU TIME: 8
+
+STARTING WORK ON: 
+ID: 6 Name: proc_46911 State: e   Priority: -16 Arrival Time: 3    CPU Burst Time: 76   	XAR: 231F55   XDI: C5F413   XDO: 3939F4   PC: 58B84B   IR: E24C3C   EMIT: 5EBE6A   RR: 9F15F3   PSW: FC3012 Register Values:ED3B28 E38233 2FC274 DEC8BF C07CD7 5BD47E F8977C 111A8A 
+
+BURST REACHED...now terminating...
+
+ID: 6 Name: proc_46911 State: t   Priority: -16 Arrival Time: 3    CPU Burst Time: 76   	XAR: 73603b   XDI: a4e721   XDO: b9058f   PC: ef2493   IR: 9a5d29   EMIT: 9c5afa   RR: 4b525d   PSW: e09d7a Register Values:171794 59e493 d8b156 bad944 fa4c2c 59fc9f 23e860 749e34 
+
+GLOBAL TIME: 963
+CPU TIME: 76
+
+STARTING WORK ON: 
+ID: 7 Name: proc_23293 State: e   Priority: -11 Arrival Time: 3    CPU Burst Time: 236  	XAR: 1AA7AB   XDI: 3BB37E   XDO: 22832E   PC: DC182E   IR: 571CF3   EMIT: 8A8609   RR: C0A471   PSW: CEA7E8 Register Values:329B25 10AAE7 25168C BC760B 9F713F 2EA84C 8B4AD1 D84F39 
+
+BURST REACHED...now terminating...
+
+ID: 7 Name: proc_23293 State: t   Priority: -11 Arrival Time: 3    CPU Burst Time: 236  	XAR: 670785   XDI: acd7ee   XDO: 134c4b   PC: 2c58af   IR: d56822   EMIT: f656da   RR: be4279   PSW: cac66e Register Values:50e137 69d62d 15bbdd 548881 69741e 8716a1 4a0335 20cb1c 
+
+GLOBAL TIME: 1200
+CPU TIME: 236
+
+STARTING WORK ON: 
+ID: 8 Name: proc_36059 State: e   Priority: -6 Arrival Time: 3    CPU Burst Time: 230  	XAR: 7B60EA   XDI: B9990C   XDO: 792662   PC: 1C9F77   IR: 4BB7D4   EMIT: 1B1DC    RR: ECFC54   PSW: E4F6BE Register Values:9A5799 52DE31 74247 1A883E 38FD40 24CEE8 DA867 5883E7 
+
+BURST REACHED...now terminating...
+
+ID: 8 Name: proc_36059 State: t   Priority: -6 Arrival Time: 3    CPU Burst Time: 230  	XAR: 4d1d3b   XDI: a49467   XDO: 76309b   PC: 137f9f   IR: 248c39   EMIT: c42eaa   RR: 7d618f   PSW: 1807d5 Register Values:9dab24 a543e8 587469 b76304 8cff57 6f59e5 ba176b bbe6d2 
+
+GLOBAL TIME: 1431
+CPU TIME: 230
+
+STARTING WORK ON: 
+ID: 9 Name: proc_21823 State: e   Priority: 7  Arrival Time: 3    CPU Burst Time: 25   	XAR: C9CE2D   XDI: F5D027   XDO: 680468   PC: 9C5D86   IR: C8327A   EMIT: 15E2A3   RR: 172A8A   PSW: FB247C Register Values:F9F898 12ECA0 7CC4FF 23274C 161010 4166C3 1A317 D2FAD1 
+
+BURST REACHED...now terminating...
+
+ID: 9 Name: proc_21823 State: t   Priority: 7  Arrival Time: 3    CPU Burst Time: 25   	XAR: a43c80   XDI: 9d283f   XDO: b0a69f   PC: cf0832   IR: 27c2ee   EMIT: 306984   RR: f2b37b   PSW: 7d0da5 Register Values:477817 badfbc d04573 5233d7 904904 8cd85b 51ad5e 86536c 
+
+GLOBAL TIME: 1457
+CPU TIME: 25
+
+STARTING WORK ON: 
+ID: 10 Name: proc_19873 State: e   Priority: 18 Arrival Time: 3    CPU Burst Time: 261  	XAR: E2D859   XDI: DE588E   XDO: A3D805   PC: 9F89F1   IR: E6ACC5   EMIT: 5D9FD2   RR: D37CA2   PSW: 29364B Register Values:73C6D2 956F37 6D9859 6288A4 C87E3C E76556 7CBA27 F5F8FB 
+
+BURST REACHED...now terminating...
+
+ID: 10 Name: proc_19873 State: t   Priority: 18 Arrival Time: 3    CPU Burst Time: 261  	XAR: 50c43e   XDI: 6cf022   XDO: 9563d9   PC: 344305   IR: f515d0   EMIT: a84869   RR: 8d2711   PSW: 89c5e4 Register Values:219e50 3e3684 99ba09 8f7e48 32056b e13231 e099d9 2abf8e 
+
+GLOBAL TIME: 1719
+CPU TIME: 261
+
+STARTING WORK ON: 
+ID: 11 Name: proc_43961 State: e   Priority: 8  Arrival Time: 4    CPU Burst Time: 84   	XAR: 177187   XDI: A55E3C   XDO: 9DD6E7   PC: E1AF09   IR: 15A6C0   EMIT: DE6554   RR: 1A5395   PSW: F81E78 Register Values:4BD259 D0A597 3BC81C 8734BC 2E4F64 2E669E E7F637 8BABF8 
+
+BURST REACHED...now terminating...
+
+ID: 11 Name: proc_43961 State: t   Priority: 8  Arrival Time: 4    CPU Burst Time: 84   	XAR: 5cb72c   XDI: c8f2f2   XDO: a781ae   PC: 34b7f3   IR: 76f7cd   EMIT: 5e5f42   RR: c6ddfd   PSW: f23c43 Register Values:d287b9 981878 4ef8d1 5f80bf 25c110 354cd0 eb8f9c aab87d 
+
+GLOBAL TIME: 1804
+CPU TIME: 84
+
+STARTING WORK ON: 
+ID: 12 Name: proc_61825 State: e   Priority: 13 Arrival Time: 4    CPU Burst Time: 2    	XAR: 2954E2   XDI: 84C391   XDO: 24973B   PC: 3778F9   IR: 42CC     EMIT: ECD70C   RR: E48CF6   PSW: 82D5CD Register Values:AC79C2 F6275C 7C7A 44B664 23051E 42FA82 EBDABC 9334C1 
+
+BURST REACHED...now terminating...
+
+ID: 12 Name: proc_61825 State: t   Priority: 13 Arrival Time: 4    CPU Burst Time: 2    	XAR: 8a2639   XDI: 3e7561   XDO: 781ad0   PC: 337d35   IR: 9a39a1   EMIT: cf417c   RR: 7bccfe   PSW: 2d10b3 Register Values:d31840 e9c865 1c3bb8 d58082 988129 711559 e87b73 e688e7 
+
+GLOBAL TIME: 1807
+CPU TIME: 2
+
+STARTING WORK ON: 
+ID: 13 Name: proc_61553 State: e   Priority: 15 Arrival Time: 4    CPU Burst Time: 19   	XAR: 45CCE9   XDI: 58CEA6   XDO: A03D14   PC: A3902C   IR: BB8BA0   EMIT: 4B03FA   RR: 9D4D19   PSW: FE0D5D Register Values:C7CDC4 F1A7CF 8784C 652700 9A0136 7D27D 76F05C 1CABBF 
+
+BURST REACHED...now terminating...
+
+ID: 13 Name: proc_61553 State: t   Priority: 15 Arrival Time: 4    CPU Burst Time: 19   	XAR: 2f846f   XDI: 1f673f   XDO: 766655   PC: b0e50a   IR: 11aba3   EMIT: b4aad6   RR: 15b59a   PSW: e6caf3 Register Values:15e705 4e88a5 d60a53 9b616d 990060 5a3be7 ab1177 ed2d9a 
+
+GLOBAL TIME: 1827
+CPU TIME: 19
+
+STARTING WORK ON: 
+ID: 14 Name: proc_55157 State: e   Priority: -7 Arrival Time: 5    CPU Burst Time: 112  	XAR: FD76B0   XDI: 388DD1   XDO: B182B5   PC: F53B03   IR: 6179CC   EMIT: 757B71   RR: 6B513A   PSW: 32DD82 Register Values:604B02 73C53C 383501 932EF7 CA200A 2A4EA8 B4CB8E 5DB5E 
+
+BURST REACHED...now terminating...
+
+ID: 14 Name: proc_55157 State: t   Priority: -7 Arrival Time: 5    CPU Burst Time: 112  	XAR: ba78b0   XDI: 7a1811   XDO: 53f8ae   PC: bd3931   IR: c87f21   EMIT: 8fe89e   RR: 3f27eb   PSW: 6f66ad Register Values:ac65cf dd25f2 9f67b1 416a6e 2d3de4 126967 dc980d c3b1fe 
+
+GLOBAL TIME: 1940
+CPU TIME: 112
+
+STARTING WORK ON: 
+ID: 15 Name: proc_29534 State: e   Priority: -2 Arrival Time: 5    CPU Burst Time: 244  	XAR: 4F0DBB   XDI: C514F6   XDO: EA92E1   PC: F7F776   IR: B28F65   EMIT: 7522AC   RR: 853AAF   PSW: EC179E Register Values:AD82E8 13C6A8 2346E5 FEA53C C0314F 54F487 300CE3 565689 
+
+BURST REACHED...now terminating...
+
+ID: 15 Name: proc_29534 State: t   Priority: -2 Arrival Time: 5    CPU Burst Time: 244  	XAR: b2a0bc   XDI: 50022c   XDO: 8bbff8   PC: b873c8   IR: 33d1cb   EMIT: a30979   RR: b216cf   PSW: fda16f Register Values:2a13cf 7babde affde4 44f4f7 456605 aaefdf 49acca 8d86b0 
+
+GLOBAL TIME: 2185
+CPU TIME: 244
+
+STARTING WORK ON: 
+ID: 16 Name: proc_21760 State: e   Priority: 12 Arrival Time: 5    CPU Burst Time: 257  	XAR: 738F3E   XDI: BAF378   XDO: F62FFC   PC: CF2162   IR: 132BDA   EMIT: BF97C9   RR: 11B8B9   PSW: 6BA9B9 Register Values:C9A861 229E86 A7F607 CD42B2 507B9E C808F6 DE2071 E0423E 
+
+BURST REACHED...now terminating...
+
+ID: 16 Name: proc_21760 State: t   Priority: 12 Arrival Time: 5    CPU Burst Time: 257  	XAR: d0202f   XDI: 48c6b1   XDO: d2a335   PC: b11b79   IR: ab8160   EMIT: db7d18   RR: edf238   PSW: 37528e Register Values:b86779 91d484 ee8af8 6094f4 153738 eb7373 fe6fcb 924eba 
+
+GLOBAL TIME: 2443
+CPU TIME: 257
+
+STARTING WORK ON: 
+ID: 17 Name: proc_11109 State: e   Priority: 17 Arrival Time: 5    CPU Burst Time: 50   	XAR: 4B807B   XDI: E17FCC   XDO: B17123   PC: 70F1ED   IR: E26FEB   EMIT: 86D2BE   RR: 61E040   PSW: 629858 Register Values:84FE9C 583617 5AA41E 76F64C DD3FC2 52A77C B973CC 150CE9 
+
+BURST REACHED...now terminating...
+
+ID: 17 Name: proc_11109 State: t   Priority: 17 Arrival Time: 5    CPU Burst Time: 50   	XAR: 9d0ee3   XDI: d46696   XDO: c957a0   PC: 508ca1   IR: 88db24   EMIT: 55750f   RR: ab2b70   PSW: 922475 Register Values:d1ee4d ef8be8 2d2f75 e85b93 d12e1a 965d24 8bed02 612ec4 
+
+GLOBAL TIME: 2494
+CPU TIME: 50
+
+STARTING WORK ON: 
+ID: 18 Name: proc_12747 State: e   Priority: -8 Arrival Time: 7    CPU Burst Time: 245  	XAR: 63B395   XDI: DD91D3   XDO: CA7F01   PC: 7CD934   IR: 38CAEE   EMIT: D81002   RR: 8C9D87   PSW: 614C4A Register Values:66ED26 8E9826 ADD4F3 A0D87F 94659A 23040E A00FCF 156851 
+
+BURST REACHED...now terminating...
+
+ID: 18 Name: proc_12747 State: t   Priority: -8 Arrival Time: 7    CPU Burst Time: 245  	XAR: 228a17   XDI: 86fc5f   XDO: d875d5   PC: 62a497   IR: c41bd0   EMIT: a5b3dd   RR: 9cf586   PSW: a78800 Register Values:530bd1 b4b056 7678c1 90be45 ed7ced e59df3 e4b488 834acd 
+
+GLOBAL TIME: 2740
+CPU TIME: 245
+
+STARTING WORK ON: 
+ID: 19 Name: proc_28865 State: e   Priority: 9  Arrival Time: 7    CPU Burst Time: 71   	XAR: 11E458   XDI: CFBE31   XDO: B1857D   PC: AB871C   IR: 144F64   EMIT: 446D33   RR: 2F35B9   PSW: E1D5E0 Register Values:6607EA 78ABDC 1217AB 42046B D68567 3BCD CCAA16 728781 
+
+BURST REACHED...now terminating...
+
+ID: 19 Name: proc_28865 State: t   Priority: 9  Arrival Time: 7    CPU Burst Time: 71   	XAR: 445fa5   XDI: a1937d   XDO: b0e080   PC: 958f72   IR: adff50   EMIT: 30a1c2   RR: 2cc6dd   PSW: 3e1111 Register Values:8eb08e ade905 593478 9361ea bf7283 de137a 869111 6ffb2f 
+
+GLOBAL TIME: 2812
+CPU TIME: 71
+
+STARTING WORK ON: 
+ID: 20 Name: proc_14867 State: e   Priority: 19 Arrival Time: 7    CPU Burst Time: 243  	XAR: 625547   XDI: 90436D   XDO: EED803   PC: 68EAED   IR: DD2AD4   EMIT: 417C63   RR: 6124D1   PSW: 19FB58 Register Values:3718A6 50CEB3 3D055C 49F787 4C4955 76BA33 6E49F7 EFE0E7 
+
+BURST REACHED...now terminating...
+
+ID: 20 Name: proc_14867 State: t   Priority: 19 Arrival Time: 7    CPU Burst Time: 243  	XAR: c1379e   XDI: 746836   XDO: 43256a   PC: e55c0c   IR: 4cadbc   EMIT: c78bdb   RR: e9b08c   PSW: ddaee2 Register Values:371989 d48883 be6495 2e7a78 8151b2 5d89e5 381047 25af19 
+
+GLOBAL TIME: 3056
+CPU TIME: 243
+
+STARTING WORK ON: 
+ID: 21 Name: proc_42746 State: e   Priority: -14 Arrival Time: 8    CPU Burst Time: 287  	XAR: 18E1FC   XDI: BDA49C   XDO: 26A38C   PC: F123E2   IR: 6D2630   EMIT: 11C6B2   RR: 93D732   PSW: 7C442 Register Values:FDF1BC FCBAD6 AB4CEA 619C0F B6BBC0 3EC0F6 9C5F87 4933CB 
+
+BURST REACHED...now terminating...
+
+ID: 21 Name: proc_42746 State: t   Priority: -14 Arrival Time: 8    CPU Burst Time: 287  	XAR: 33ccc0   XDI: d9dcc3   XDO: 825be5   PC: 27bd09   IR: 2f0deb   EMIT: bd5a21   RR: 6c93f7   PSW: bfd5dc Register Values:edb863 646429 651c90 9a34b7 335296 29472c 91e58a dc1d2c 
+
+GLOBAL TIME: 3344
+CPU TIME: 287
+
+STARTING WORK ON: 
+ID: 22 Name: proc_63986 State: e   Priority: 3  Arrival Time: 8    CPU Burst Time: 272  	XAR: D6C837   XDI: 9B81FD   XDO: 3100B0   PC: 23E682   IR: C2CB1D   EMIT: B3BC39   RR: 455036   PSW: F7A875 Register Values:3AA4D2 7FF289 FA1EC3 D27884 65802 5A7F5 CE34A3 87D18B 
+
+BURST REACHED...now terminating...
+
+ID: 22 Name: proc_63986 State: t   Priority: 3  Arrival Time: 8    CPU Burst Time: 272  	XAR: 30a192   XDI: ad41dc   XDO: 880a2a   PC: a5aabc   IR: a15e4e   EMIT: 7451b4   RR: 9f10fc   PSW: 3240e9 Register Values:71ae62 4acfec cfe64c bdaae6 d9e4d5 dcfe9f 547e40 f6c89e 
+
+GLOBAL TIME: 3617
+CPU TIME: 272
+
+STARTING WORK ON: 
+ID: 23 Name: proc_13695 State: e   Priority: 7  Arrival Time: 8    CPU Burst Time: 25   	XAR: B4D40A   XDI: 7954A4   XDO: CCE311   PC: 1BF246   IR: 3946C1   EMIT: 70C5D1   RR: 7BDF24   PSW: DB02D8 Register Values:E576E8 4AED63 F6E5EB DB611F A3898 ED01C6 7A5175 4B3E2F 
+
+BURST REACHED...now terminating...
+
+ID: 23 Name: proc_13695 State: t   Priority: 7  Arrival Time: 8    CPU Burst Time: 25   	XAR: 118a42   XDI: 7c100b   XDO: 775dbf   PC: 9780d5   IR: 2e5c0f   EMIT: 30d3ef   RR: 60c6ba   PSW: 4c7fcd Register Values:69c72e fe1d0e 78a132 d2eccf d8442c 924056 a49522 724e61 
+
+GLOBAL TIME: 3643
+CPU TIME: 25
+
+STARTING WORK ON: 
+ID: 24 Name: proc_2235  State: e   Priority: 0  Arrival Time: 9    CPU Burst Time: 84   	XAR: 40693C   XDI: 33941F   XDO: 181434   PC: EA5473   IR: 67A385   EMIT: 2F135C   RR: C435D3   PSW: 4B5BAD Register Values:6B88F8 3E8C60 6E773E A2B43C 1EA2D3 1DB25 2C170F 95EF47 
+
+BURST REACHED...now terminating...
+
+ID: 24 Name: proc_2235  State: t   Priority: 0  Arrival Time: 9    CPU Burst Time: 84   	XAR: b8d408   XDI: cf2745   XDO: 9eeeda   PC: a401d1   IR: 1a0711   EMIT: 58bc15   RR: f5bb33   PSW: b5bd60 Register Values:d8ff86 767279 1d366c f00729 8c910d 5b1e6b aff211 1189c1 
+
+GLOBAL TIME: 3728
+CPU TIME: 84
+
+STARTING WORK ON: 
+ID: 25 Name: proc_6388  State: e   Priority: 9  Arrival Time: 9    CPU Burst Time: 18   	XAR: 932171   XDI: 77AF81   XDO: C6DFE9   PC: 2170AA   IR: 863327   EMIT: 767E9    RR: 253CD2   PSW: 168603 Register Values:3A68AB F9352F 90DD98 EEC346 98119B 5E1789 CA8B6 B2461D 
+
+BURST REACHED...now terminating...
+
+ID: 25 Name: proc_6388  State: t   Priority: 9  Arrival Time: 9    CPU Burst Time: 18   	XAR: b7e237   XDI: a1e7fa   XDO: 153603   PC: 8c4aa4   IR: caa3a7   EMIT: 4c5008   RR: b10db2   PSW: 2a3178 Register Values:181711 80356e 6f3626 d0cf6f 251f03 87eca0 342a21 f91bfc 
+
+GLOBAL TIME: 3747
+CPU TIME: 18
+
+STARTING WORK ON: 
+ID: 26 Name: proc_22718 State: e   Priority: 8  Arrival Time: 10   CPU Burst Time: 187  	XAR: 220A76   XDI: 2842C9   XDO: CC9FFF   PC: 9FE838   IR: DAD929   EMIT: A2D073   RR: ACECAC   PSW: E205F6 Register Values:6B602E C235B 2BF3AB DE5691 CC5831 7F5A8F 212742 7E2BD9 
+
+BURST REACHED...now terminating...
+
+ID: 26 Name: proc_22718 State: t   Priority: 8  Arrival Time: 10   CPU Burst Time: 187  	XAR: c2e679   XDI: 945054   XDO: ae4905   PC: 45a639   IR: 7207a6   EMIT: d0f14f   RR: efb1d1   PSW: d68f00 Register Values:86003e 492b6d 49c805 895752 f24016 dad921 a2d5a7 3cbdba 
+
+GLOBAL TIME: 3935
+CPU TIME: 187
+
+STARTING WORK ON: 
+ID: 27 Name: proc_42999 State: e   Priority: -18 Arrival Time: 12   CPU Burst Time: 78   	XAR: 3E889B   XDI: DEAC34   XDO: 8648A9   PC: 252ADA   IR: F8E042   EMIT: 31DFAE   RR: B166FF   PSW: FE4F36 Register Values:7B0C81 1283E5 2754AD AB30E4 CF9CEF 3C28B4 1588A7 733C7B 
+
+BURST REACHED...now terminating...
+
+ID: 27 Name: proc_42999 State: t   Priority: -18 Arrival Time: 12   CPU Burst Time: 78   	XAR: c6a2e1   XDI: 4a9312   XDO: a5b7d9   PC: f6c650   IR: 90bf42   EMIT: 4a8c3e   RR: 2a89c8   PSW: 5e3ebf Register Values:e1b88d 755457 e6539a 3f6330 85ef29 47cfed 19ae30 72fb3b 
+
+GLOBAL TIME: 4014
+CPU TIME: 78
+
+STARTING WORK ON: 
+ID: 28 Name: proc_42158 State: e   Priority: -17 Arrival Time: 12   CPU Burst Time: 106  	XAR: 45DB11   XDI: 3129BD   XDO: 6AA5CC   PC: 1891C9   IR: 3ED831   EMIT: 753F16   RR: F94DC7   PSW: BE1172 Register Values:E62DD5 82027E 9D6BB8 52700F EEA3C7 9BD82B 5BD64 BCA7CA 
+
+BURST REACHED...now terminating...
+
+ID: 28 Name: proc_42158 State: t   Priority: -17 Arrival Time: 12   CPU Burst Time: 106  	XAR: 157b02   XDI: 80c93f   XDO: 933071   PC: cb1ba5   IR: 86b708   EMIT: 6abd9a   RR: a74ef0   PSW: 59673f Register Values:3a2c59 1f5837 e82205 ee9a80 53690a 156178 4c723b ad82ba 
+
+GLOBAL TIME: 4121
+CPU TIME: 106
+
+STARTING WORK ON: 
+ID: 29 Name: proc_50912 State: e   Priority: -16 Arrival Time: 12   CPU Burst Time: 279  	XAR: F2F355   XDI: 5FC63D   XDO: 88EEA3   PC: EAA56C   IR: A6D87B   EMIT: 510071   RR: 280EE9   PSW: 5CBD62 Register Values:F4E975 E2CF8C 95EF3C 3709C9 69B0E2 75E524 CA8D85 DD73B5 
+
+BURST REACHED...now terminating...
+
+ID: 29 Name: proc_50912 State: t   Priority: -16 Arrival Time: 12   CPU Burst Time: 279  	XAR: 59b9a8   XDI: 10cf70   XDO: 1c6ed3   PC: 707b88   IR: 6eace6   EMIT: c5ec6a   RR: bf3008   PSW: 7500e4 Register Values:a97afc 9148cb ba1044 7c589c 5de228 2cb3f4 892ca3 4aaf72 
+
+GLOBAL TIME: 4401
+CPU TIME: 279
+
+STARTING WORK ON: 
+ID: 30 Name: proc_22849 State: e   Priority: -14 Arrival Time: 12   CPU Burst Time: 35   	XAR: 2AC85C   XDI: CC4387   XDO: AC4E61   PC: F70189   IR: 7A8BED   EMIT: 8279F    RR: 2CB828   PSW: 18BC44 Register Values:2CAC0D 22A9E6 C31D19 9E763D FCA6E4 21D9E0 C4786A A71528 
+
+BURST REACHED...now terminating...
+
+ID: 30 Name: proc_22849 State: t   Priority: -14 Arrival Time: 12   CPU Burst Time: 35   	XAR: f07080   XDI: fd029d   XDO: 64cddf   PC: 97c6fb   IR: ef0a0d   EMIT: a979c1   RR: 217314   PSW: e1874e Register Values:7dd201 6e1bc5 c23952 f26bd0 48595a 3696b0 4114d9 a5affa 
+
+GLOBAL TIME: 4437
+CPU TIME: 35
+
+STARTING WORK ON: 
+ID: 31 Name: proc_16928 State: e   Priority: -7 Arrival Time: 12   CPU Burst Time: 228  	XAR: D66329   XDI: FD54D9   XDO: 4DD450   PC: 5295BA   IR: 49B641   EMIT: 599991   RR: ED6C90   PSW: AFE78B Register Values:6423C0 DBC8B4 E44F14 3FD0DE E321B4 7BF00C 2DC7A7 1DD5C9 
+
+BURST REACHED...now terminating...
+
+ID: 31 Name: proc_16928 State: t   Priority: -7 Arrival Time: 12   CPU Burst Time: 228  	XAR: b657bb   XDI: 1615ea   XDO: c939ec   PC: d6c847   IR: 716c00   EMIT: 5e20ce   RR: f5e4f4   PSW: 47c35a Register Values:a89514 5433c7 da1ac9 7e8c06 935c23 aad8a0 e88ccd 3a8d56 
+
+GLOBAL TIME: 4666
+CPU TIME: 228
+
+STARTING WORK ON: 
+ID: 32 Name: proc_31003 State: e   Priority: -5 Arrival Time: 12   CPU Burst Time: 9    	XAR: 1F86FA   XDI: E3598C   XDO: B76FF9   PC: 44592F   IR: E1114B   EMIT: CABF5    RR: 238752   PSW: 30819 Register Values:FA6740 8AE4C3 EA8E6E 1C4F31 4C57B 9B25D9 82DE35 7E8FB5 
+
+BURST REACHED...now terminating...
+
+ID: 32 Name: proc_31003 State: t   Priority: -5 Arrival Time: 12   CPU Burst Time: 9    	XAR: cca7f6   XDI: f972b6   XDO: 3fc6f2   PC: e65847   IR: dd77a4   EMIT: fc960b   RR: 7ad245   PSW: bffdc3 Register Values:11f272 678f51 ba333e e26ca2 28ba54 e16c3b 476bdc e95106 
+
+GLOBAL TIME: 4676
+CPU TIME: 9
+
+STARTING WORK ON: 
+ID: 33 Name: proc_64449 State: e   Priority: 4  Arrival Time: 12   CPU Burst Time: 10   	XAR: 8F0AB7   XDI: 3C45A8   XDO: C5992A   PC: 1F6DDD   IR: 4A4941   EMIT: A1A2D6   RR: 508EDC   PSW: 6DAFDB Register Values:723975 FEB9F6 160FA3 E4CFEF 905B4 493419 172A52 99342E 
+
+BURST REACHED...now terminating...
+
+ID: 33 Name: proc_64449 State: t   Priority: 4  Arrival Time: 12   CPU Burst Time: 10   	XAR: b06ca2   XDI: 9690e4   XDO: 5abc90   PC: 259f26   IR: 840c95   EMIT: bce101   RR: e39075   PSW: af5bbe Register Values:287adb 529ca5 caf91c 1afc62 c4c201 e5e3ae bfa954 9aabf9 
+
+GLOBAL TIME: 4687
+CPU TIME: 10
+
+STARTING WORK ON: 
+ID: 34 Name: proc_61110 State: e   Priority: 2  Arrival Time: 13   CPU Burst Time: 0    	XAR: 51F4EC   XDI: AF7304   XDO: FECCB5   PC: F6B360   IR: 7CAA53   EMIT: 5EF399   RR: B1EF0D   PSW: 12163A Register Values:31B414 865BC3 D87370 EEA1CA DBDA45 4C3CA7 812595 907CCC 
+
+BURST REACHED...now terminating...
+
+ID: 34 Name: proc_61110 State: t   Priority: 2  Arrival Time: 13   CPU Burst Time: 0    	XAR: 51F4EC   XDI: AF7304   XDO: FECCB5   PC: F6B360   IR: 7CAA53   EMIT: 5EF399   RR: B1EF0D   PSW: 12163A Register Values:31B414 865BC3 D87370 EEA1CA DBDA45 4C3CA7 812595 907CCC 
+
+GLOBAL TIME: 4688
+CPU TIME: 0
+
+STARTING WORK ON: 
+ID: 35 Name: proc_18240 State: e   Priority: 14 Arrival Time: 13   CPU Burst Time: 38   	XAR: 2C4ACC   XDI: 299236   XDO: 30CFAD   PC: EF834E   IR: F2D1C4   EMIT: 7A54A8   RR: B731B2   PSW: D10524 Register Values:A8D4F 75A157 290259 F1978B 575B6E F205FA 8645A0 40C2A 
+
+BURST REACHED...now terminating...
+
+ID: 35 Name: proc_18240 State: t   Priority: 14 Arrival Time: 13   CPU Burst Time: 38   	XAR: 5f1205   XDI: 25a76d   XDO: d9b4b4   PC: 71add8   IR: 5ebf36   EMIT: bf5dfa   RR: f388e0   PSW: 597239 Register Values:3a8f43 48d9da e16b66 59fdaa fcdbd9 2b2f2c f6190b 22fb31 
+
+GLOBAL TIME: 4727
+CPU TIME: 38
+
+STARTING WORK ON: 
+ID: 36 Name: proc_63110 State: e   Priority: 6  Arrival Time: 14   CPU Burst Time: 36   	XAR: EDE24E   XDI: 8A994C   XDO: 1E58A4   PC: E5A7E4   IR: 28244E   EMIT: DD41C9   RR: 56AEFE   PSW: 1AEFE3 Register Values:1BDC7 4B7A8E 7A05B 2EDD42 34D1AF D08EF6 659C4A 8E3D3B 
+
+BURST REACHED...now terminating...
+
+ID: 36 Name: proc_63110 State: t   Priority: 6  Arrival Time: 14   CPU Burst Time: 36   	XAR: 762717   XDI: bfdab7   XDO: c6d05f   PC: 112a83   IR: 65a3b5   EMIT: 42b34d   RR: 2d1167   PSW: 46f49c Register Values:a222f4 133655 434114 207f2d 7798e6 50b9e9 37a1ef bf28a3 
+
+GLOBAL TIME: 4764
+CPU TIME: 36
+
+STARTING WORK ON: 
+ID: 37 Name: proc_14069 State: e   Priority: 11 Arrival Time: 14   CPU Burst Time: 278  	XAR: 4AAE88   XDI: 6A33E0   XDO: F2169F   PC: F4E6D6   IR: D84529   EMIT: E5FBAF   RR: 9B0947   PSW: D82432 Register Values:CB3CBD 457440 3E635A 90F07C 9CFAA0 6453CA 21B680 44B1AB 
+
+BURST REACHED...now terminating...
+
+ID: 37 Name: proc_14069 State: t   Priority: 11 Arrival Time: 14   CPU Burst Time: 278  	XAR: 8a4912   XDI: d1b003   XDO: 439561   PC: fe3fcb   IR: 485dec   EMIT: 845d2e   RR: 61def5   PSW: 418926 Register Values:cba336 4acb25 a7e5e5 c607f5 5416e4 a7ef88 dcfb22 1241b1 
+
+GLOBAL TIME: 5043
+CPU TIME: 278
+
+STARTING WORK ON: 
+ID: 38 Name: proc_43444 State: e   Priority: -4 Arrival Time: 15   CPU Burst Time: 21   	XAR: 8496F0   XDI: 95A3AE   XDO: 4437F    PC: 988DCB   IR: 24C80E   EMIT: BFD970   RR: FAD505   PSW: BC8525 Register Values:A89F54 3B5B91 48277D C8D83C 6A99CE 36CEA8 99D0E0 57E12E 
+
+BURST REACHED...now terminating...
+
+ID: 38 Name: proc_43444 State: t   Priority: -4 Arrival Time: 15   CPU Burst Time: 21   	XAR: 63170a   XDI: 6183bf   XDO: 8ac3db   PC: 7e11b6   IR: f662af   EMIT: 914a7a   RR: adb82c   PSW: 60d648 Register Values:15dd64 83a86e a65af1 48e064 dfbd8c 4de135 552fd5 71bf1b 
+
+GLOBAL TIME: 5065
+CPU TIME: 21
+
+STARTING WORK ON: 
+ID: 39 Name: proc_45382 State: e   Priority: -3 Arrival Time: 15   CPU Burst Time: 155  	XAR: 763F66   XDI: E75A62   XDO: 21F0CE   PC: 3B65FE   IR: 260C7A   EMIT: CE60EF   RR: 6DAFE7   PSW: B81A0F Register Values:E2DC53 2D1EF B5CCAF 79C70 A63C3D 1D7805 60832E B314C3 
+
+BURST REACHED...now terminating...
+
+ID: 39 Name: proc_45382 State: t   Priority: -3 Arrival Time: 15   CPU Burst Time: 155  	XAR: d8ecec   XDI: d68f47   XDO: cbc1d8   PC: cca484   IR: 58adda   EMIT: ca3995   RR: edd8d2   PSW: 6598c2 Register Values:f3425b 572334 655090 bea1e7 e66287 44a43e 57439d 9b73a5 
+
+GLOBAL TIME: 5221
+CPU TIME: 155
+
+STARTING WORK ON: 
+ID: 40 Name: proc_41999 State: e   Priority: -14 Arrival Time: 16   CPU Burst Time: 128  	XAR: FCB4BD   XDI: F3FA1E   XDO: 42AA7D   PC: 612D0C   IR: 53C9C6   EMIT: 4D66EB   RR: FB64E1   PSW: E84A59 Register Values:D946D3 7DEE8C 603A70 DA7799 F1EE4F BA815D 7221BB 391AEC 
+
+BURST REACHED...now terminating...
+
+ID: 40 Name: proc_41999 State: t   Priority: -14 Arrival Time: 16   CPU Burst Time: 128  	XAR: c7af12   XDI: 56dacd   XDO: 62519d   PC: c23fe3   IR: 76f694   EMIT: 62d52a   RR: 4e9400   PSW: e92668 Register Values:134b21 fbf9c7 a46d2b 538078 cf71b7 73246a f50eb9 5266eb 
+
+GLOBAL TIME: 5350
+CPU TIME: 128
+
+STARTING WORK ON: 
+ID: 41 Name: proc_15326 State: e   Priority: 7  Arrival Time: 16   CPU Burst Time: 241  	XAR: E53670   XDI: FF3C00   XDO: 4148AF   PC: BF41E2   IR: E3FEC1   EMIT: 95E9E9   RR: B44C9    PSW: 6D4DE3 Register Values:823DA9 F00192 8345FF 83A823 259816 5B42E6 EB67C4 D3520E 
+
+BURST REACHED...now terminating...
+
+ID: 41 Name: proc_15326 State: t   Priority: 7  Arrival Time: 16   CPU Burst Time: 241  	XAR: aa4d2c   XDI: d81975   XDO: 9122f6   PC: 5cecd1   IR: 48fe00   EMIT: a8f397   RR: d9e6a9   PSW: 406509 Register Values:dcd384 c3e179 265109 c409c5 b8f201 f7218b f703e4 3412cc 
+
+GLOBAL TIME: 5592
+CPU TIME: 241
+
+STARTING WORK ON: 
+ID: 42 Name: proc_6318  State: e   Priority: -12 Arrival Time: 17   CPU Burst Time: 7    	XAR: FF3809   XDI: DFC155   XDO: 6350E6   PC: 394F7B   IR: 86BE83   EMIT: 8D6D53   RR: 328A85   PSW: 6817AB Register Values:B75564 6F7BBD BF7D2E 4BC8E2 649FE8 756926 F3C195 66B7D2 
+
+BURST REACHED...now terminating...
+
+ID: 42 Name: proc_6318  State: t   Priority: -12 Arrival Time: 17   CPU Burst Time: 7    	XAR: cd7021   XDI: 8b286b   XDO: a5445d   PC: 17621c   IR: e291f5   EMIT: ecc109   RR: 732198   PSW: ae0ca9 Register Values:e9b61f 4ab15d 4c467c 9bc846 2b9bb2 2a44cd de6e5c c983f5 
+
+GLOBAL TIME: 5600
+CPU TIME: 7
+
+STARTING WORK ON: 
+ID: 43 Name: proc_54269 State: e   Priority: 4  Arrival Time: 18   CPU Burst Time: 280  	XAR: 9F7426   XDI: E13C35   XDO: 90FA85   PC: 249514   IR: AA51AC   EMIT: 44CD31   RR: 5A8AAF   PSW: E020E8 Register Values:16BE38 E7AAE6 749A07 987B4B 41C1B8 52A8C5 1F332D 5E7A32 
+
+BURST REACHED...now terminating...
+
+ID: 43 Name: proc_54269 State: t   Priority: 4  Arrival Time: 18   CPU Burst Time: 280  	XAR: 43ae7f   XDI: e7ab4f   XDO: 690158   PC: c24518   IR: ecb8c4   EMIT: 366b63   RR: b6140e   PSW: b77475 Register Values:cc13a4 80bcd2 562980 a9203c fdc27b 22e187 bfb4c5 e75752 
+
+GLOBAL TIME: 5881
+CPU TIME: 280
+
+STARTING WORK ON: 
+ID: 44 Name: proc_61928 State: e   Priority: 13 Arrival Time: 18   CPU Burst Time: 250  	XAR: F3A082   XDI: BEAE6F   XDO: 3F62D9   PC: 24A018   IR: 4DDCF6   EMIT: 5297F9   RR: 524499   PSW: 63DF0F Register Values:FFF989 C5ABDD 954DDC FAA1F9 2543F0 3B4C3D D8F11D 3CEDC8 
+
+BURST REACHED...now terminating...
+
+ID: 44 Name: proc_61928 State: t   Priority: 13 Arrival Time: 18   CPU Burst Time: 250  	XAR: ab20a6   XDI: f154dd   XDO: 2ad7ef   PC: 39d65d   IR: e07f1f   EMIT: 5e82f5   RR: 496f33   PSW: fe3011 Register Values:5c9271 2a7a50 ec52e9 9daa36 3f8257 64fe4e 7da164 5555a7 
+
+GLOBAL TIME: 6132
+CPU TIME: 250
+
+STARTING WORK ON: 
+ID: 45 Name: proc_13637 State: e   Priority: 9  Arrival Time: 19   CPU Burst Time: 119  	XAR: 11E02    XDI: 499EAE   XDO: D5F945   PC: DB5FBE   IR: B791B2   EMIT: 5554FB   RR: 7342CD   PSW: A7F089 Register Values:5C4085 D2EB8A E54489 DA737A 4CC8BE 8462AA ACC9B 5ABAC3 
+
+BURST REACHED...now terminating...
+
+ID: 45 Name: proc_13637 State: t   Priority: 9  Arrival Time: 19   CPU Burst Time: 119  	XAR: efa215   XDI: 300a29   XDO: f85421   PC: bcf97f   IR: 65574a   EMIT: 4eac14   RR: 9e77ee   PSW: 2c61a5 Register Values:4f8bd6 139851 756e43 1c3cae 235aef d98194 6dd0f7 13ed38 
+
+GLOBAL TIME: 6252
+CPU TIME: 119
+
+STARTING WORK ON: 
+ID: 46 Name: proc_40477 State: e   Priority: -7 Arrival Time: 20   CPU Burst Time: 48   	XAR: BED62A   XDI: 8F6A41   XDO: 694CB4   PC: 5DF2A9   IR: 80458A   EMIT: A3FE9F   RR: 873CF9   PSW: 9FCE8F Register Values:228FA2 C62984 4BDA0E 650211 16FED5 50D205 54237C D7CAA6 
+
+BURST REACHED...now terminating...
+
+ID: 46 Name: proc_40477 State: t   Priority: -7 Arrival Time: 20   CPU Burst Time: 48   	XAR: a9843d   XDI: 7bfdd3   XDO: 1a152e   PC: 194306   IR: db130f   EMIT: c7ded6   RR: 814c1e   PSW: 3fdeff Register Values:f63443 66397b c1d485 cfc2db 458095 153b52 f098c2 d33e39 
+
+GLOBAL TIME: 6301
+CPU TIME: 48
+
+STARTING WORK ON: 
+ID: 47 Name: proc_35450 State: e   Priority: -2 Arrival Time: 20   CPU Burst Time: 187  	XAR: C522DF   XDI: 7C00C9   XDO: A286BF   PC: CFF404   IR: AE5E4B   EMIT: 76E32E   RR: 431A25   PSW: 8426C0 Register Values:5BF30C ED13A4 2B290D F24906 9C35C1 2047F4 9D6123 DF2D9 
+
+BURST REACHED...now terminating...
+
+ID: 47 Name: proc_35450 State: t   Priority: -2 Arrival Time: 20   CPU Burst Time: 187  	XAR: 54691a   XDI: 8547fa   XDO: fbbf55   PC: 69bf31   IR: 958620   EMIT: c6e6d6   RR: 93c5d8   PSW: 50aa5f Register Values:ee5c5c e6b156 7e5cfa 406fc8 8dc7ec ef48e6 e52488 f9919b 
+
+GLOBAL TIME: 6489
+CPU TIME: 187
+
+STARTING WORK ON: 
+ID: 48 Name: proc_4809  State: e   Priority: -2 Arrival Time: 21   CPU Burst Time: 219  	XAR: 2B88FA   XDI: E3EF0B   XDO: 8B58CA   PC: 7E3C60   IR: 104729   EMIT: 25927A   RR: A7D8D9   PSW: 301236 Register Values:2972A5 27C14E C2BEC8 213FAD C02FA1 C7D2B8 7A21D3 224507 
+
+BURST REACHED...now terminating...
+
+ID: 48 Name: proc_4809  State: t   Priority: -2 Arrival Time: 21   CPU Burst Time: 219  	XAR: 9ec2db   XDI: 5bfeed   XDO: 3b015b   PC: 312295   IR: 1b25c5   EMIT: bcbf77   RR: 2c563d   PSW: dc2a99 Register Values:31b218 62ae01 7ef972 392f27 11d42c 5ad50a 2ab2b6 c51593 
+
+GLOBAL TIME: 6709
+CPU TIME: 219
+
+STARTING WORK ON: 
+ID: 49 Name: proc_9629  State: e   Priority: -16 Arrival Time: 22   CPU Burst Time: 205  	XAR: DA0919   XDI: 2C9B79   XDO: 66158B   PC: 20560D   IR: 2D80AE   EMIT: 9B233C   RR: 200947   PSW: D48F86 Register Values:333D16 3612E4 74E1ED DA9838 6A4E3F 64BC26 4D4E2C 96727 
+
+BURST REACHED...now terminating...
+
+ID: 49 Name: proc_9629  State: t   Priority: -16 Arrival Time: 22   CPU Burst Time: 205  	XAR: 8586cc   XDI: c6705e   XDO: fdeb36   PC: a168a4   IR: ca22a9   EMIT: 8707ba   RR: d78e86   PSW: feca70 Register Values:306654 f6d6d9 c6a72b e6fd18 9ce371 7adaf4 c85bf9 e2a345 
+
+GLOBAL TIME: 6915
+CPU TIME: 205
+
+STARTING WORK ON: 
+ID: 50 Name: proc_28284 State: e   Priority: 13 Arrival Time: 22   CPU Burst Time: 138  	XAR: B6DC1E   XDI: A78A86   XDO: A0407B   PC: D7ED58   IR: 263BAB   EMIT: 2642CF   RR: 8BFA5E   PSW: B8C678 Register Values:579629 6F2230 99A571 E36D8B 190327 74CF7A 1D838A 43D775 
+
+BURST REACHED...now terminating...
+
+ID: 50 Name: proc_28284 State: t   Priority: 13 Arrival Time: 22   CPU Burst Time: 138  	XAR: 947c44   XDI: 68e3d5   XDO: b63f4e   PC: bf76be   IR: 2005f6   EMIT: 55a1fc   RR: b26011   PSW: d8b50f Register Values:750b5f bd9e9c 5940c3 12713b b63692 ab9349 25638d b5a6ad 
+
+GLOBAL TIME: 7054
+CPU TIME: 138
+
+STARTING WORK ON: 
+ID: 51 Name: proc_60804 State: e   Priority: -13 Arrival Time: 23   CPU Burst Time: 27   	XAR: 5F698E   XDI: 38602E   XDO: 90978E   PC: 60425B   IR: 73F451   EMIT: 6B07C4   RR: E99621   PSW: EC6E4B Register Values:DA16A7 9C4DFC 364969 9CD972 278562 F6CAC7 69328F 23CCE4 
+
+BURST REACHED...now terminating...
+
+ID: 51 Name: proc_60804 State: t   Priority: -13 Arrival Time: 23   CPU Burst Time: 27   	XAR: 9a2775   XDI: cabe73   XDO: 9770ab   PC: ebe110   IR: c006cc   EMIT: b214ac   RR: 19bcd6   PSW: b6c084 Register Values:d7afd5 95cc75 7834d7 f5a189 76a2ad d06887 c3fbdc c11f87 
+
+GLOBAL TIME: 7082
+CPU TIME: 27
+
+STARTING WORK ON: 
+ID: 52 Name: proc_54395 State: e   Priority: 5  Arrival Time: 23   CPU Burst Time: 246  	XAR: DD282A   XDI: 92A0C6   XDO: E3C8EB   PC: CA4145   IR: AD967D   EMIT: 5E89DE   RR: 5C2AFD   PSW: F70DEE Register Values:303986 D8BF0B 75B66E 9FC844 E83E71 D17314 359456 3A1D76 
+
+BURST REACHED...now terminating...
+
+ID: 52 Name: proc_54395 State: t   Priority: 5  Arrival Time: 23   CPU Burst Time: 246  	XAR: 1b9688   XDI: c2e577   XDO: e957c0   PC: f92968   IR: 1fea0f   EMIT: b89a38   RR: e8f83c   PSW: afe505 Register Values:765d0f 32e689 800985 b12fe3 256e1e 6cdcb1 cc2fe1 4466aa 
+
+GLOBAL TIME: 7329
+CPU TIME: 246
+
+STARTING WORK ON: 
+ID: 53 Name: proc_45857 State: e   Priority: -5 Arrival Time: 24   CPU Burst Time: 86   	XAR: 8860F0   XDI: FA63B    XDO: 367945   PC: 1B10DF   IR: CAF3E0   EMIT: 213B94   RR: 8857C7   PSW: A6F1DF Register Values:F48D05 E28F6E D2D840 92C1F8 3DF975 51C5C0 4A0017 672706 
+
+BURST REACHED...now terminating...
+
+ID: 53 Name: proc_45857 State: t   Priority: -5 Arrival Time: 24   CPU Burst Time: 86   	XAR: a8c6bc   XDI: 48d2f8   XDO: 48ff35   PC: 3c539b   IR: 745431   EMIT: ad57c7   RR: 279ecf   PSW: d52af4 Register Values:6edf94 a8f056 f920f1 470e57 528411 49984e c6af05 908a94 
+
+GLOBAL TIME: 7416
+CPU TIME: 86
+
+STARTING WORK ON: 
+ID: 54 Name: proc_40210 State: e   Priority: -4 Arrival Time: 24   CPU Burst Time: 196  	XAR: A7AFC2   XDI: 9CF40B   XDO: B02832   PC: B119D2   IR: 652669   EMIT: A865B9   RR: 728DA7   PSW: EDD750 Register Values:9CA78F 58AF6A 710851 AD49F8 CB8AD0 1DCDCE CA4DBD D04B44 
+
+BURST REACHED...now terminating...
+
+ID: 54 Name: proc_40210 State: t   Priority: -4 Arrival Time: 24   CPU Burst Time: 196  	XAR: bc715a   XDI: ce442e   XDO: 14ae7b   PC: 4dce7e   IR: edc5c3   EMIT: 4a11f5   RR: fa6da2   PSW: ab6521 Register Values:48ebe1 7a52ef 66832c b2251a 3b00cd 330e20 34192d c400cc 
+
+GLOBAL TIME: 7613
+CPU TIME: 196
+
+STARTING WORK ON: 
+ID: 55 Name: proc_36271 State: e   Priority: 1  Arrival Time: 24   CPU Burst Time: 115  	XAR: 9DA239   XDI: D212A3   XDO: D19902   PC: D065F4   IR: 1FAD0E   EMIT: 5B949C   RR: 6AC094   PSW: 22D96D Register Values:2440D4 AD7AC 360DCA C1D46A DB2BE0 2AABEA F34039 47F5E1 
+
+BURST REACHED...now terminating...
+
+ID: 55 Name: proc_36271 State: t   Priority: 1  Arrival Time: 24   CPU Burst Time: 115  	XAR: 24b49d   XDI: 83d780   XDO: b74727   PC: 49a7fe   IR: cec337   EMIT: e60c8f   RR: e8b1b7   PSW: 35321a Register Values:60bfab f47fec e8308a a2e095 776dd7 b70b7e 6af86a 1088e2 
+
+GLOBAL TIME: 7729
+CPU TIME: 115
+
+STARTING WORK ON: 
+ID: 56 Name: proc_48836 State: e   Priority: -18 Arrival Time: 25   CPU Burst Time: 221  	XAR: B0C5C5   XDI: 9BBB5B   XDO: 3DDE8E   PC: 6E6698   IR: 10D912   EMIT: 7B0FB4   RR: 6CE414   PSW: 5AD820 Register Values:975897 4C328 B4A639 4E87 EAA2D3 42FA9 652AFA 966EE2 
+
+BURST REACHED...now terminating...
+
+ID: 56 Name: proc_48836 State: t   Priority: -18 Arrival Time: 25   CPU Burst Time: 221  	XAR: e6334d   XDI: 281bed   XDO: ffc42a   PC: ed33c2   IR: 3efdcc   EMIT: 101488   RR: 6dbd1e   PSW: 1d3082 Register Values:1fd45b ae0388 546a2b 8a4bab e5112a 9623ad 4be1ed c9499a 
+
+GLOBAL TIME: 7951
+CPU TIME: 221
+
+STARTING WORK ON: 
+ID: 57 Name: proc_59604 State: e   Priority: -12 Arrival Time: 25   CPU Burst Time: 25   	XAR: 122289   XDI: DE5F72   XDO: 865FB6   PC: F7AE2D   IR: 505A5A   EMIT: D6ADDF   RR: 90CB9    PSW: DC77B1 Register Values:971ABC 3F2307 871DB F79D07 4826F0 1BAA1A B5F802 C9C8D8 
+
+BURST REACHED...now terminating...
+
+ID: 57 Name: proc_59604 State: t   Priority: -12 Arrival Time: 25   CPU Burst Time: 25   	XAR: bf3daf   XDI: 7d9a32   XDO: e57e32   PC: 9e9bf5   IR: c0f435   EMIT: 9ac161   RR: 16aa58   PSW: b56559 Register Values:b1f57b 877dd3 62ea51 47582d eebd5a 831341 616605 74b5bc 
+
+GLOBAL TIME: 7977
+CPU TIME: 25
+
+STARTING WORK ON: 
+ID: 58 Name: proc_668   State: e   Priority: -3 Arrival Time: 25   CPU Burst Time: 252  	XAR: 49C7B1   XDI: 8E4EA4   XDO: 446E37   PC: 46CCE5   IR: 786AF6   EMIT: 35544    RR: 7AA25    PSW: D83A8A Register Values:113EE4 884E3 1DAF27 B9E01E 1A8EF5 164BF9 8EC6CC C5BB54 
+
+BURST REACHED...now terminating...
+
+ID: 58 Name: proc_668   State: t   Priority: -3 Arrival Time: 25   CPU Burst Time: 252  	XAR: ad9a29   XDI: 27392d   XDO: 44f4a6   PC: 678814   IR: 64a60e   EMIT: 4eaab5   RR: 2a380b   PSW: 18220a Register Values:29a8af e09e0b dcbaf9 e00b08 42f836 a723e3 fd5284 56bb73 
+
+GLOBAL TIME: 8230
+CPU TIME: 252
+
+STARTING WORK ON: 
+ID: 59 Name: proc_41004 State: e   Priority: 9  Arrival Time: 25   CPU Burst Time: 267  	XAR: 233CD    XDI: 8B37B7   XDO: D69B7E   PC: C8A6B5   IR: A932CF   EMIT: 45191D   RR: D8B668   PSW: F1AAEE Register Values:D96476 2C3ABA 55ACA5 40B864 74C910 D6E51E 246CA7 57F3FC 
+
+BURST REACHED...now terminating...
+
+ID: 59 Name: proc_41004 State: t   Priority: 9  Arrival Time: 25   CPU Burst Time: 267  	XAR: 1aeae6   XDI: 1cdf1a   XDO: 37c53e   PC: ddc799   IR: 626b91   EMIT: eb4943   RR: 480b95   PSW: d07cf0 Register Values:792eaf 3ea8c8 4ffd71 850071 8e34fc 9f21f2 e76726 453ccc 
+
+GLOBAL TIME: 8498
+CPU TIME: 267
+
+STARTING WORK ON: 
+ID: 60 Name: proc_35545 State: e   Priority: 16 Arrival Time: 25   CPU Burst Time: 267  	XAR: 8C73F6   XDI: AC79E4   XDO: 57E6BC   PC: AFD6BB   IR: 2A09EF   EMIT: 6A9058   RR: D1F0E9   PSW: 9C3955 Register Values:21FCFA 4B7DE8 CD567F 60CF5E 139E9E A112E1 141717 7B891F 
+
+BURST REACHED...now terminating...
+
+ID: 60 Name: proc_35545 State: t   Priority: 16 Arrival Time: 25   CPU Burst Time: 267  	XAR: a9fe05   XDI: 34029f   XDO: 284c2a   PC: 9c3046   IR: 2a7c92   EMIT: 63a072   RR: b0bd1b   PSW: e7a1ff Register Values:1932d9 43cf69 a922fe 2b410f 6e6f9f 59ee77 861ded f605bc 
+
+GLOBAL TIME: 8766
+CPU TIME: 267
+
+STARTING WORK ON: 
+ID: 61 Name: proc_7455  State: e   Priority: -19 Arrival Time: 26   CPU Burst Time: 195  	XAR: 544A69   XDI: D6ADB3   XDO: E8894F   PC: 2A1E71   IR: 423EB0   EMIT: E9BC91   RR: 73827E   PSW: 17D10C Register Values:107870 7A18BC 42A2A7 CB34E7 EFDC6E E97E33 98EDB3 565252 
+
+BURST REACHED...now terminating...
+
+ID: 61 Name: proc_7455  State: t   Priority: -19 Arrival Time: 26   CPU Burst Time: 195  	XAR: 41b146   XDI: 788c2d   XDO: 3f0435   PC: 47cdfd   IR: d81690   EMIT: 4178b0   RR: 30f89b   PSW: 162945 Register Values:4227cb 92e5e3 ea3523 1e46df a79415 52338a 54ad20 ba925b 
+
+GLOBAL TIME: 8962
+CPU TIME: 195
+
+STARTING WORK ON: 
+ID: 62 Name: proc_60441 State: e   Priority: -19 Arrival Time: 26   CPU Burst Time: 233  	XAR: FF7549   XDI: 45C2C1   XDO: CF81C8   PC: 374DD3   IR: E281CC   EMIT: F3B9A9   RR: 859A2B   PSW: C42FAA Register Values:AE5172 F3A550 B129DD 36399E 5F03C0 1AF295 76EC66 650A8D 
+
+BURST REACHED...now terminating...
+
+ID: 62 Name: proc_60441 State: t   Priority: -19 Arrival Time: 26   CPU Burst Time: 233  	XAR: 9f342a   XDI: bf54a9   XDO: 8af10a   PC: 2cebd3   IR: 7e4ec0   EMIT: 94906f   RR: 97ce67   PSW: 4f69cf Register Values:2b8c0e 1927bf 4a9c77 4787aa 20eb90 b452b6 cb0600 5faef9 
+
+GLOBAL TIME: 9196
+CPU TIME: 233
+
+STARTING WORK ON: 
+ID: 63 Name: proc_54928 State: e   Priority: -13 Arrival Time: 26   CPU Burst Time: 185  	XAR: EDB755   XDI: 733C4E   XDO: FD0F3E   PC: B20E35   IR: 7D65BA   EMIT: 27EA7E   RR: 4E299E   PSW: F5B018 Register Values:89D600 2C278 A55E38 1711C1 4B1447 C4C7BB 404385 608E24 
+
+BURST REACHED...now terminating...
+
+ID: 63 Name: proc_54928 State: t   Priority: -13 Arrival Time: 26   CPU Burst Time: 185  	XAR: 5b6a43   XDI: 953ca7   XDO: de3769   PC: 5d70b6   IR: b101fe   EMIT: 369e92   RR: f21b47   PSW: bea2a8 Register Values:c1e9fc be838e 3d6f07 5628b3 c1e866 d26580 c5a4b1 26f900 
+
+GLOBAL TIME: 9382
+CPU TIME: 185
+
+STARTING WORK ON: 
+ID: 64 Name: proc_31240 State: e   Priority: -8 Arrival Time: 26   CPU Burst Time: 238  	XAR: A6C339   XDI: EEBC4F   XDO: A3B493   PC: 23E258   IR: 1859C7   EMIT: E74674   RR: 5ED21D   PSW: 7EB895 Register Values:AB6BBA 84E62A 9732FF 884F10 440A3F F9B307 91CC36 A12F2E 
+
+BURST REACHED...now terminating...
+
+ID: 64 Name: proc_31240 State: t   Priority: -8 Arrival Time: 26   CPU Burst Time: 238  	XAR: 7c1740   XDI: 50512e   XDO: 81e672   PC: c8081b   IR: c578bf   EMIT: 276efe   RR: c5f604   PSW: 11d8c5 Register Values:dcb567 8ea4d0 a128b6 54b635 a33970 5f21a1 f4bf8f 874153 
+
+GLOBAL TIME: 9621
+CPU TIME: 238
+
+STARTING WORK ON: 
+ID: 65 Name: proc_57374 State: e   Priority: -7 Arrival Time: 27   CPU Burst Time: 106  	XAR: 58DE19   XDI: 2C35A8   XDO: 34B974   PC: D47AA2   IR: 8EF325   EMIT: 5881E0   RR: D5A55E   PSW: 80A09B Register Values:DF73AC 6BA72D BC1B82 954924 A392ED D4A0E1 BF8BC1 B5464C 
+
+BURST REACHED...now terminating...
+
+ID: 65 Name: proc_57374 State: t   Priority: -7 Arrival Time: 27   CPU Burst Time: 106  	XAR: d5d670   XDI: c9742e   XDO: e62e01   PC: 344583   IR: 3eb373   EMIT: fd966b   RR: 6e2124   PSW: 8a5c4e Register Values:ca5396 d55e20 9edd6a c9369a 9c8343 5ba0a2 a4358f 8b764a 
+
+GLOBAL TIME: 9728
+CPU TIME: 106
+
+STARTING WORK ON: 
+ID: 66 Name: proc_59315 State: e   Priority: 0  Arrival Time: 27   CPU Burst Time: 195  	XAR: 36F2F6   XDI: C4ED2D   XDO: AEAAFE   PC: B96B5    IR: C5A54C   EMIT: 1AC3D0   RR: AC0A2E   PSW: E09D5B Register Values:AF814F 8305D7 D1FAB0 806AD1 C2B9A6 81638C 13D515 DC09A3 
+
+BURST REACHED...now terminating...
+
+ID: 66 Name: proc_59315 State: t   Priority: 0  Arrival Time: 27   CPU Burst Time: 195  	XAR: 6b6ade   XDI: 680a9d   XDO: 7e1188   PC: 312fe6   IR: a3c234   EMIT: 3b0d1d   RR: 4bee75   PSW: 7d383d Register Values:6ec51a dc9ff3 e114ff 4cdd67 6fa2ca 714e2c 121b0b b52f97 
+
+GLOBAL TIME: 9924
+CPU TIME: 195
+
+STARTING WORK ON: 
+ID: 67 Name: proc_62385 State: e   Priority: 4  Arrival Time: 27   CPU Burst Time: 128  	XAR: 29A7     XDI: E63BE2   XDO: AF51A2   PC: F939C6   IR: B6F8E4   EMIT: 92BC0D   RR: 5D3781   PSW: 9AC37E Register Values:4B70E0 8048A1 FD4F7F A4FD8C CC534A 9E20DF F9B006 9FF08F 
+
+BURST REACHED...now terminating...
+
+ID: 67 Name: proc_62385 State: t   Priority: 4  Arrival Time: 27   CPU Burst Time: 128  	XAR: 58d4f6   XDI: de22a5   XDO: b24ae9   PC: eb4a0e   IR: 13649a   EMIT: 901733   RR: cf2bc5   PSW: eb7362 Register Values:f26af6 2ef1e4 44809f d32730 368b21 4137dd dcb917 bca4d5 
+
+GLOBAL TIME: 10053
+CPU TIME: 128
+
+STARTING WORK ON: 
+ID: 68 Name: proc_53652 State: e   Priority: 15 Arrival Time: 27   CPU Burst Time: 177  	XAR: EAE57D   XDI: 3913CD   XDO: 498BAF   PC: 44BC6F   IR: A8298F   EMIT: 3F808C   RR: B017F0   PSW: FFAAED Register Values:7EDF81 8206EE 4A1018 630C19 CBEE6A 1CE16D B98BD4 ACF431 
+
+BURST REACHED...now terminating...
+
+ID: 68 Name: proc_53652 State: t   Priority: 15 Arrival Time: 27   CPU Burst Time: 177  	XAR: a0840c   XDI: aeb18c   XDO: c6b060   PC: b602fe   IR: 4e38c1   EMIT: 47444a   RR: 40af7a   PSW: f87654 Register Values:861d0b 71cca0 bf7198 8ff538 5bfa2e 903f47 e23d3e 119a99 
+
+GLOBAL TIME: 10231
+CPU TIME: 177
+
+STARTING WORK ON: 
+ID: 69 Name: proc_31904 State: e   Priority: -19 Arrival Time: 28   CPU Burst Time: 152  	XAR: D0815A   XDI: 7D6E39   XDO: 6D37F7   PC: 26E695   IR: 650C87   EMIT: C5F01    RR: 355367   PSW: 6C72DB Register Values:E427E3 FB4A51 BA5544 B1E4FB 618D5D 969EC5 6C3B32 6BD569 
+
+BURST REACHED...now terminating...
+
+ID: 69 Name: proc_31904 State: t   Priority: -19 Arrival Time: 28   CPU Burst Time: 152  	XAR: 57d93a   XDI: 2d7a5a   XDO: f106c3   PC: d7bfda   IR: 45176d   EMIT: 9b7630   RR: 79ef4c   PSW: 4bf667 Register Values:f772f4 25c2cc e5f292 66b34e a116b3 156529 948af3 a00163 
+
+GLOBAL TIME: 10384
+CPU TIME: 152
+
+STARTING WORK ON: 
+ID: 70 Name: proc_999   State: e   Priority: -18 Arrival Time: 28   CPU Burst Time: 139  	XAR: 3134DA   XDI: FDB214   XDO: AB9286   PC: A06916   IR: AB984F   EMIT: 54A366   RR: E041AC   PSW: 5A8446 Register Values:2517EC D86492 BA5CF2 89F297 9FFF74 183BAC 8ABCE4 CF1349 
+
+BURST REACHED...now terminating...
+
+ID: 70 Name: proc_999   State: t   Priority: -18 Arrival Time: 28   CPU Burst Time: 139  	XAR: d25d52   XDI: 7b014f   XDO: 8083a4   PC: 22f3ee   IR: 867ea3   EMIT: 3b5903   RR: cfc0eb   PSW: 394825 Register Values:586924 f75287 62364c e9161e 16bcbf b7422a f73a27 63d8d7 
+
+GLOBAL TIME: 10524
+CPU TIME: 139
+
+STARTING WORK ON: 
+ID: 71 Name: proc_19211 State: e   Priority: -13 Arrival Time: 28   CPU Burst Time: 170  	XAR: C3A4E3   XDI: A33EFF   XDO: 398A1F   PC: B10F9E   IR: CEF7A8   EMIT: 5A800D   RR: E98469   PSW: 5D11BF Register Values:C86440 3403AE B97F33 333B9D 7D81F9 3ADC71 32EFB6 E7970D 
+
+BURST REACHED...now terminating...
+
+ID: 71 Name: proc_19211 State: t   Priority: -13 Arrival Time: 28   CPU Burst Time: 170  	XAR: d2cc74   XDI: eedf00   XDO: 9faa66   PC: 9961f7   IR: e7a686   EMIT: 6eefde   RR: 520fb0   PSW: 37f6a9 Register Values:a76f52 73e5ca b929f7 9732ee d32334 930629 ac477d ffd6cf 
+
+GLOBAL TIME: 10695
+CPU TIME: 170
+
+STARTING WORK ON: 
+ID: 72 Name: proc_33128 State: e   Priority: -1 Arrival Time: 28   CPU Burst Time: 40   	XAR: 5A20D0   XDI: A3BAD8   XDO: A5111E   PC: C156D6   IR: E23D95   EMIT: A95DF6   RR: 354412   PSW: C16190 Register Values:EDFED4 143170 D1F4FA E3D6F 53ED76 1D7084 584DC8 E64141 
+
+BURST REACHED...now terminating...
+
+ID: 72 Name: proc_33128 State: t   Priority: -1 Arrival Time: 28   CPU Burst Time: 40   	XAR: 22f58e   XDI: 526793   XDO: 5d187c   PC: 70c3d5   IR: ddd0f9   EMIT: 991f06   RR: 564928   PSW: 5b3ddd Register Values:c91a89 c5a61a 37b453 739139 39701a 49faee f27111 db2746 
+
+GLOBAL TIME: 10736
+CPU TIME: 40
+
+STARTING WORK ON: 
+ID: 73 Name: proc_13421 State: e   Priority: 7  Arrival Time: 28   CPU Burst Time: 149  	XAR: CFFB6B   XDI: 440EAB   XDO: EF6192   PC: 8BCEF    IR: 41BC50   EMIT: 7ABFB9   RR: C894EA   PSW: 812DAE Register Values:BB851B F715D3 5F151E 5C8651 E32659 86F1DA 8812D E180A9 
+
+BURST REACHED...now terminating...
+
+ID: 73 Name: proc_13421 State: t   Priority: 7  Arrival Time: 28   CPU Burst Time: 149  	XAR: dcd8d3   XDI: bc188f   XDO: a013ca   PC: 73330b   IR: 614961   EMIT: b755a4   RR: f217eb   PSW: d3d493 Register Values:57006c a2f797 3b442b 8e8ad9 d02a67 9cdc41 8eb5dc a7e58d 
+
+GLOBAL TIME: 10886
+CPU TIME: 149
+
+STARTING WORK ON: 
+ID: 74 Name: proc_14155 State: e   Priority: 19 Arrival Time: 28   CPU Burst Time: 9    	XAR: 28088C   XDI: BA10D9   XDO: CEC0C    PC: 43851C   IR: 9C30E    EMIT: 87AE24   RR: 7532EA   PSW: 46041B Register Values:15479D 495F45 7CC373 7D0AEB BDD180 516419 3260E9 629E4A 
+
+BURST REACHED...now terminating...
+
+ID: 74 Name: proc_14155 State: t   Priority: 19 Arrival Time: 28   CPU Burst Time: 9    	XAR: d6dc62   XDI: 1d21e6   XDO: 685d9f   PC: 783f99   IR: 74bf9a   EMIT: 4fc47d   RR: 4872cc   PSW: c17890 Register Values:2b5226 d3894d 658180 5f1368 ef8d93 76cc1f 939660 a2e831 
+
+GLOBAL TIME: 10896
+CPU TIME: 9
+
+STARTING WORK ON: 
+ID: 75 Name: proc_41437 State: e   Priority: 4  Arrival Time: 29   CPU Burst Time: 141  	XAR: A8D690   XDI: 68062B   XDO: 69C8C3   PC: E8D77F   IR: 53ED32   EMIT: 3C8727   RR: B62DC9   PSW: ED467E Register Values:C48CE4 107FB8 2C0356 CD44C8 487DB6 C5A584 4F8200 8B3B79 
+
+BURST REACHED...now terminating...
+
+ID: 75 Name: proc_41437 State: t   Priority: 4  Arrival Time: 29   CPU Burst Time: 141  	XAR: 5482be   XDI: 4080b8   XDO: 5dae00   PC: 8e85ee   IR: 6c78f0   EMIT: 430747   RR: 906823   PSW: 58d53e Register Values:4eb454 1e0c88 a5cc68 13e230 ee1543 74414e 9724d4 ab524e 
+
+GLOBAL TIME: 11038
+CPU TIME: 141
+
+STARTING WORK ON: 
+ID: 76 Name: proc_34258 State: e   Priority: 13 Arrival Time: 30   CPU Burst Time: 23   	XAR: 6F381B   XDI: 4CB475   XDO: 919910   PC: D3940E   IR: E83095   EMIT: 4E1972   RR: CBCBC3   PSW: 69D574 Register Values:65F9C5 2C5610 4F04B6 66223C 3A758A 90CEE9 502BDD 8ACD59 
+
+BURST REACHED...now terminating...
+
+ID: 76 Name: proc_34258 State: t   Priority: 13 Arrival Time: 30   CPU Burst Time: 23   	XAR: ac9661   XDI: 91e820   XDO: dc24df   PC: 9a3164   IR: 38e51f   EMIT: 4b82b0   RR: fd57a4   PSW: 804f17 Register Values:24bb3d 6b1a74 e0a46d 7d3505 e31e40 f2288c 58dc41 7a665c 
+
+GLOBAL TIME: 11062
+CPU TIME: 23
+
+STARTING WORK ON: 
+ID: 77 Name: proc_15848 State: e   Priority: 3  Arrival Time: 32   CPU Burst Time: 269  	XAR: 9633E6   XDI: 36F357   XDO: 9394A1   PC: E906F4   IR: 2EDD5C   EMIT: 81805F   RR: 955A9F   PSW: B35BE4 Register Values:ECAF1 C1B3A0 EBB1B8 9F17F0 31EB01 848D7F A375E5 37CED7 
+
+BURST REACHED...now terminating...
+
+ID: 77 Name: proc_15848 State: t   Priority: 3  Arrival Time: 32   CPU Burst Time: 269  	XAR: c5e713   XDI: 3c8476   XDO: c99c05   PC: 493ab1   IR: 94a165   EMIT: 732932   RR: 812520   PSW: cf6776 Register Values:c0de69 234a4d a83fc4 e31601 efe8be 10895a d38aae 4945c9 
+
+GLOBAL TIME: 11332
+CPU TIME: 269
+
+STARTING WORK ON: 
+ID: 78 Name: proc_50517 State: e   Priority: 5  Arrival Time: 32   CPU Burst Time: 153  	XAR: FB85B    XDI: 7014A3   XDO: EABDEA   PC: 3FE11    IR: 48EFE9   EMIT: EFFBD4   RR: 28B739   PSW: DF52E2 Register Values:3BBFEF C71811 8FC870 A989AA F45D6C 33DFA3 4B1C5F 1D881B 
+
+BURST REACHED...now terminating...
+
+ID: 78 Name: proc_50517 State: t   Priority: 5  Arrival Time: 32   CPU Burst Time: 153  	XAR: 2c728d   XDI: dc98a9   XDO: 74c75b   PC: 84de50   IR: d46f33   EMIT: 9ba4ff   RR: faf69e   PSW: c355c2 Register Values:98f4ac 504cfb a5e307 d959da 63f06d 315ba6 6dc1bb 199013 
+
+GLOBAL TIME: 11486
+CPU TIME: 153
+
+STARTING WORK ON: 
+ID: 79 Name: proc_43000 State: e   Priority: 10 Arrival Time: 33   CPU Burst Time: 256  	XAR: 40DB6C   XDI: E5EFEE   XDO: 3985FA   PC: 3B139B   IR: 793D63   EMIT: 721946   RR: B8B5C3   PSW: 3B3A69 Register Values:5DB491 3BB799 D64FD9 57BA0D 4A2B85 D36FF5 8C8C79 E41F92 
+
+BURST REACHED...now terminating...
+
+ID: 79 Name: proc_43000 State: t   Priority: 10 Arrival Time: 33   CPU Burst Time: 256  	XAR: feb2f4   XDI: 3000a7   XDO: 3b2003   PC: 32017b   IR: 680691   EMIT: c2d26a   RR: 99ee32   PSW: c81634 Register Values:9d918c 66eb74 67f374 11356b 703295 48af63 ffd7cb da069f 
+
+GLOBAL TIME: 11743
+CPU TIME: 256
+
+STARTING WORK ON: 
+ID: 80 Name: proc_64939 State: e   Priority: -4 Arrival Time: 34   CPU Burst Time: 20   	XAR: C3B847   XDI: 65CF1    XDO: 37A0C2   PC: C65DC7   IR: 40AF12   EMIT: 1AB77D   RR: 8444EC   PSW: CB373C Register Values:4D2BD9 BB37E8 91857F 85E1FA B2FF4B D25FB7 92FE15 76A979 
+
+BURST REACHED...now terminating...
+
+ID: 80 Name: proc_64939 State: t   Priority: -4 Arrival Time: 34   CPU Burst Time: 20   	XAR: 6da401   XDI: a27da9   XDO: cef19b   PC: a1da85   IR: 92aea7   EMIT: 8dbccb   RR: a4b411   PSW: e32f62 Register Values:17f02a bfec0b a44c68 90b5c1 13b5c6 721238 87eb76 fe28a6 
+
+GLOBAL TIME: 11764
+CPU TIME: 20
+
+STARTING WORK ON: 
+ID: 81 Name: proc_60903 State: e   Priority: 7  Arrival Time: 34   CPU Burst Time: 65   	XAR: 176FDD   XDI: 728680   XDO: CF4057   PC: 41518D   IR: 99A44    EMIT: 9EFBB8   RR: 6A0AD7   PSW: 43EB1A Register Values:CCCF85 BC8EC6 4B31F 399C55 A03068 72F4AD D2754A 39EFE4 
+
+BURST REACHED...now terminating...
+
+ID: 81 Name: proc_60903 State: t   Priority: 7  Arrival Time: 34   CPU Burst Time: 65   	XAR: 2670c8   XDI: 726ece   XDO: f1cbb2   PC: 9b2073   IR: aef326   EMIT: a19b70   RR: eaaa5f   PSW: e6e1a6 Register Values:eae702 d659e4 d5c89f 4d205f 118996 d1ab17 23ec84 f61b11 
+
+GLOBAL TIME: 11830
+CPU TIME: 65
+
+STARTING WORK ON: 
+ID: 82 Name: proc_37038 State: e   Priority: 15 Arrival Time: 34   CPU Burst Time: 293  	XAR: 4B3836   XDI: 4CD960   XDO: B63657   PC: B82274   IR: D449A2   EMIT: 510DCC   RR: B43406   PSW: 31521A Register Values:A3DC82 925BD9 E46ADF 775771 F0D8F2 4D488E 62F375 7E195E 
+
+BURST REACHED...now terminating...
+
+ID: 82 Name: proc_37038 State: t   Priority: 15 Arrival Time: 34   CPU Burst Time: 293  	XAR: 26c279   XDI: 68f47a   XDO: 2483f6   PC: 5040f0   IR: 9192e8   EMIT: d207bd   RR: 316540   PSW: d9624d Register Values:446a34 b81eee ddf5c6 1528e4 21c924 8c75ed 9757b9 363e29 
+
+GLOBAL TIME: 12124
+CPU TIME: 293
+
+STARTING WORK ON: 
+ID: 83 Name: proc_8822  State: e   Priority: 12 Arrival Time: 35   CPU Burst Time: 260  	XAR: 6D3D3A   XDI: 4A7F99   XDO: 69F674   PC: B99CFE   IR: D7F3C    EMIT: ACA50D   RR: 8FDAC1   PSW: 4093AB Register Values:690946 1704C9 F38FFD 117812 5FE94 9CDAA0 779D23 B38E97 
+
+BURST REACHED...now terminating...
+
+ID: 83 Name: proc_8822  State: t   Priority: 12 Arrival Time: 35   CPU Burst Time: 260  	XAR: 325c48   XDI: 52f716   XDO: ab4c77   PC: 55ba33   IR: 98ca45   EMIT: 4ddcc5   RR: 667765   PSW: d4b8db Register Values:208ea3 92f273 1d0bde 4ed8e4 b2a6e1 d9a897 54612c ba14bd 
+
+GLOBAL TIME: 12385
+CPU TIME: 260
+
+STARTING WORK ON: 
+ID: 84 Name: proc_19365 State: e   Priority: -18 Arrival Time: 36   CPU Burst Time: 277  	XAR: 76E86C   XDI: D2C328   XDO: 8D284E   PC: 9975D8   IR: 1E1DA0   EMIT: C6064E   RR: 3DED32   PSW: CE82E Register Values:B7A2B1 DB778D 65D250 433706 861B6D 9E2629 FD28C0 BABE21 
+
+BURST REACHED...now terminating...
+
+ID: 84 Name: proc_19365 State: t   Priority: -18 Arrival Time: 36   CPU Burst Time: 277  	XAR: e54ee4   XDI: 62f711   XDO: 88db64   PC: 3920d3   IR: 75e185   EMIT: bf37ea   RR: b6e44e   PSW: b0b527 Register Values:92b2cf 61539b 95aa06 11f015 21d365 db90ae 981ebc c2605f 
+
+GLOBAL TIME: 12663
+CPU TIME: 277
+
+STARTING WORK ON: 
+ID: 85 Name: proc_65152 State: e   Priority: -14 Arrival Time: 36   CPU Burst Time: 130  	XAR: 7DBF47   XDI: A16B4    XDO: BACF98   PC: E79E83   IR: EA4A38   EMIT: 1D07C2   RR: 77A0BC   PSW: 33BAF9 Register Values:68E972 8FBA8A BE6F04 43C5D1 DD698C B69A6A CFEF24 3F2A07 
+
+BURST REACHED...now terminating...
+
+ID: 85 Name: proc_65152 State: t   Priority: -14 Arrival Time: 36   CPU Burst Time: 130  	XAR: 5b21f5   XDI: 717e7b   XDO: 69d421   PC: 95fd2b   IR: ede90e   EMIT: 3319fd   RR: 519b7a   PSW: bfae33 Register Values:303c8a b5fb35 fa3d67 80885a 22d922 21d1e2 f0d74e 7d8ba5 
+
+GLOBAL TIME: 12794
+CPU TIME: 130
+
+STARTING WORK ON: 
+ID: 86 Name: proc_34526 State: e   Priority: 9  Arrival Time: 36   CPU Burst Time: 46   	XAR: 38B2B    XDI: 42D582   XDO: 5C395A   PC: 5367C7   IR: CDE129   EMIT: 55481    RR: F49429   PSW: A6B832 Register Values:60E718 BD9D1F 4D0A09 8004EA 215CA2 D97848 3A8C34 305063 
+
+BURST REACHED...now terminating...
+
+ID: 86 Name: proc_34526 State: t   Priority: 9  Arrival Time: 36   CPU Burst Time: 46   	XAR: ee5b86   XDI: dc777b   XDO: 66c371   PC: 218d45   IR: 97162f   EMIT: 70ce84   RR: a4eb38   PSW: a55e23 Register Values:324861 3b5ff6 463f7f 2dce74 43005c 3bf924 fbf4b2 71e9b3 
+
+GLOBAL TIME: 12841
+CPU TIME: 46
+
+STARTING WORK ON: 
+ID: 87 Name: proc_58092 State: e   Priority: -5 Arrival Time: 37   CPU Burst Time: 8    	XAR: 267342   XDI: 94ACEC   XDO: B17678   PC: 8B34A1   IR: 18C42A   EMIT: 3B13D1   RR: 1D2BBC   PSW: 57C374 Register Values:DD65E1 BAAC73 6CE42 23A167 A52BDA 100703 45D68F CD1656 
+
+BURST REACHED...now terminating...
+
+ID: 87 Name: proc_58092 State: t   Priority: -5 Arrival Time: 37   CPU Burst Time: 8    	XAR: 4a8c8c   XDI: 11b78d   XDO: 86069c   PC: 86c9cc   IR: 9b2c22   EMIT: 684497   RR: 788159   PSW: 399370 Register Values:9e2c10 bc60fe 66a99c cb4dd7 b0719e aeacbe c29255 457ea6 
+
+GLOBAL TIME: 12850
+CPU TIME: 8
+
+STARTING WORK ON: 
+ID: 88 Name: proc_44388 State: e   Priority: 7  Arrival Time: 37   CPU Burst Time: 44   	XAR: F6792B   XDI: 640A71   XDO: 3CE070   PC: 17B633   IR: 5AF8D3   EMIT: EE8595   RR: F57D16   PSW: 6BD062 Register Values:207BEA 3D7DA4 D77731 FF9F1 3DEAC7 36DD28 17B0DA 844DD2 
+
+BURST REACHED...now terminating...
+
+ID: 88 Name: proc_44388 State: t   Priority: 7  Arrival Time: 37   CPU Burst Time: 44   	XAR: c5ef2a   XDI: 81ca44   XDO: 48cba5   PC: dcdb9d   IR: 7ac8e3   EMIT: 3b47df   RR: 33d528   PSW: 7691d8 Register Values:8d7f43 c4f878 1ddcd6 4a83da bd83bb 927690 895db4 e4c378 
+
+GLOBAL TIME: 12895
+CPU TIME: 44
+
+STARTING WORK ON: 
+ID: 89 Name: proc_3607  State: e   Priority: 0  Arrival Time: 38   CPU Burst Time: 270  	XAR: A633F2   XDI: 4DD504   XDO: 35358D   PC: E134A4   IR: 632ED    EMIT: 757479   RR: C003C6   PSW: 551029 Register Values:3D698 765E2C A7DD9B 9BD071 FA80D2 EF06F0 2FEA00 D5D082 
+
+BURST REACHED...now terminating...
+
+ID: 89 Name: proc_3607  State: t   Priority: 0  Arrival Time: 38   CPU Burst Time: 270  	XAR: 6e000c   XDI: 6c4e70   XDO: 536243   PC: 59c443   IR: 8ecdcb   EMIT: 25d2d8   RR: 95f87f   PSW: a6509c Register Values:adf97a f39500 908374 a67195 ceffeb 86952b 216f9a b5ec4c 
+
+GLOBAL TIME: 13166
+CPU TIME: 270
+
+STARTING WORK ON: 
+ID: 90 Name: proc_33924 State: e   Priority: 2  Arrival Time: 38   CPU Burst Time: 161  	XAR: C3C8B5   XDI: EFBF92   XDO: 412B92   PC: 18BB8B   IR: 159E86   EMIT: 44B1A2   RR: 9A6953   PSW: 99B8F0 Register Values:47279B B29903 88BF21 2D9390 995BA3 B492D0 C6BE8F 9E049 
+
+BURST REACHED...now terminating...
+
+ID: 90 Name: proc_33924 State: t   Priority: 2  Arrival Time: 38   CPU Burst Time: 161  	XAR: 3d3cf9   XDI: 4dad6b   XDO: bb26eb   PC: 2b7fbb   IR: 9a46c5   EMIT: 9826e3   RR: f185fd   PSW: b88544 Register Values:40817a dc7c09 548a23 525893 6bbb90 b90582 f738c6 ee95b6 
+
+GLOBAL TIME: 13328
+CPU TIME: 161
+
+STARTING WORK ON: 
+ID: 91 Name: proc_14696 State: e   Priority: -13 Arrival Time: 41   CPU Burst Time: 153  	XAR: 225AB3   XDI: DC66C0   XDO: C436CA   PC: ED5ABA   IR: 8719D4   EMIT: D85B31   RR: 1D84E3   PSW: 47436A Register Values:9FA1FF AF25E5 242BDF 922238 D7C741 6B8D4 A27F9D FF8FF 
+
+BURST REACHED...now terminating...
+
+ID: 91 Name: proc_14696 State: t   Priority: -13 Arrival Time: 41   CPU Burst Time: 153  	XAR: 589b3e   XDI: 1cd99a   XDO: 7af150   PC: d8cb49   IR: 13845e   EMIT: 28192e   RR: b1690a   PSW: fece2d Register Values:658990 53f89d 9f06d0 c3c54a 3e5d65 b2e45e e14744 275706 
+
+GLOBAL TIME: 13482
+CPU TIME: 153
+
+STARTING WORK ON: 
+ID: 92 Name: proc_59153 State: e   Priority: 3  Arrival Time: 43   CPU Burst Time: 1    	XAR: DB0B66   XDI: 8025F3   XDO: 9C56D3   PC: 71077F   IR: 24920E   EMIT: 9F3844   RR: 5790E    PSW: A811B9 Register Values:858C7 174901 627846 EC256D 10AB43 38D 5F0D81 9FD176 
+
+BURST REACHED...now terminating...
+
+ID: 92 Name: proc_59153 State: t   Priority: 3  Arrival Time: 43   CPU Burst Time: 1    	XAR: 5964f8   XDI: 937f41   XDO: 8f41ee   PC: 1240d4   IR: 25e822   EMIT: b67576   RR: 4202c0   PSW: 3c7379 Register Values:d8afa1 e36ed3 da02df d3caba 70a3ef b7193b 5385c8 85cdb2 
+
+GLOBAL TIME: 13484
+CPU TIME: 1
+
+STARTING WORK ON: 
+ID: 93 Name: proc_27348 State: e   Priority: -6 Arrival Time: 44   CPU Burst Time: 165  	XAR: 399D3A   XDI: 2B1BE2   XDO: 4C250F   PC: BF550E   IR: 565D47   EMIT: 25C1C7   RR: E7AA84   PSW: 71DB29 Register Values:7A75AC A2E1B6 FAAE30 1F07F8 A9AB81 5563F1 7292 6CEE92 
+
+BURST REACHED...now terminating...
+
+ID: 93 Name: proc_27348 State: t   Priority: -6 Arrival Time: 44   CPU Burst Time: 165  	XAR: faeda8   XDI: 1967c5   XDO: 432043   PC: 1e60f1   IR: db9016   EMIT: 1d8c7c   RR: d27454   PSW: 4e40ad Register Values:64cf70 2ed37b b35b43 40b3c5 fb58f5 490bc6 2a1662 9b6b28 
+
+GLOBAL TIME: 13650
+CPU TIME: 165
+
+STARTING WORK ON: 
+ID: 94 Name: proc_31219 State: e   Priority: -2 Arrival Time: 44   CPU Burst Time: 147  	XAR: 17BF44   XDI: 99A999   XDO: 12E3C0   PC: DD3939   IR: C9446D   EMIT: 280288   RR: CB2381   PSW: C3FC1D Register Values:2FE5B3 94AE5F B71420 5C790F 3A9321 3063CF E88DBE EDDBC5 
+
+BURST REACHED...now terminating...
+
+ID: 94 Name: proc_31219 State: t   Priority: -2 Arrival Time: 44   CPU Burst Time: 147  	XAR: ae6e0b   XDI: fdbead   XDO: c69b0d   PC: 441f1a   IR: 841310   EMIT: 8e78aa   RR: 9151b5   PSW: 2bbe30 Register Values:74d181 715162 3a25e6 a9d391 10d8c4 f917b7 3c600e 46af16 
+
+GLOBAL TIME: 13798
+CPU TIME: 147
+
+STARTING WORK ON: 
+ID: 95 Name: proc_31065 State: e   Priority: 2  Arrival Time: 44   CPU Burst Time: 64   	XAR: 1ABB11   XDI: 8F2C44   XDO: 7AC813   PC: 6C0E2C   IR: B2D080   EMIT: 5CD502   RR: 3825DA   PSW: 396B Register Values:F77D21 662E8F D387E4 F66027 6736B4 39378D 9DD38C C1AE29 
+
+BURST REACHED...now terminating...
+
+ID: 95 Name: proc_31065 State: t   Priority: 2  Arrival Time: 44   CPU Burst Time: 64   	XAR: 6a4d69   XDI: 310fda   XDO: 2ca35e   PC: 7cce81   IR: 322941   EMIT: 5d705f   RR: a94716   PSW: d3a82d Register Values:85ae88 2f7b7d d10418 bc88b7 a5a075 27a6a8 4fa62f 2520fc 
+
+GLOBAL TIME: 13863
+CPU TIME: 64
+
+STARTING WORK ON: 
+ID: 96 Name: proc_19335 State: e   Priority: -8 Arrival Time: 45   CPU Burst Time: 153  	XAR: D8CD57   XDI: 1EDE80   XDO: 1AC688   PC: E2DA1    IR: CC9EC2   EMIT: C8500B   RR: FCE12    PSW: F054AB Register Values:8E6AE6 A2D51A 263218 9F3577 8F501C F50326 375A3F 41765E 
+
+BURST REACHED...now terminating...
+
+ID: 96 Name: proc_19335 State: t   Priority: -8 Arrival Time: 45   CPU Burst Time: 153  	XAR: 19d066   XDI: 6cc46e   XDO: b79524   PC: fdd6d7   IR: 6a8d52   EMIT: 3e192c   RR: 919b64   PSW: 385463 Register Values:8e84d4 b4a839 406112 f29715 5e162d 54dae2 104e4a d89f17 
+
+GLOBAL TIME: 14017
+CPU TIME: 153
+
+STARTING WORK ON: 
+ID: 97 Name: proc_41690 State: e   Priority: -2 Arrival Time: 45   CPU Burst Time: 236  	XAR: 789BED   XDI: E0E686   XDO: 53B966   PC: 114843   IR: 6C89AF   EMIT: 6906C6   RR: E1EC5F   PSW: F4D825 Register Values:547974 675751 892BD8 D64BD5 61B134 765488 58688C 7C695A 
+
+BURST REACHED...now terminating...
+
+ID: 97 Name: proc_41690 State: t   Priority: -2 Arrival Time: 45   CPU Burst Time: 236  	XAR: 2c9bfb   XDI: 11e811   XDO: 9bcdf3   PC: 6368a4   IR: 70aa92   EMIT: 2da0f4   RR: 7be326   PSW: 27cd38 Register Values:222018 3d1dff cb59ad 3463a4 a644fa 5a9b49 241891 806acc 
+
+GLOBAL TIME: 14254
+CPU TIME: 236
+
+STARTING WORK ON: 
+ID: 98 Name: proc_2178  State: e   Priority: 1  Arrival Time: 45   CPU Burst Time: 109  	XAR: D25FC7   XDI: DC4F9B   XDO: 5B5DAB   PC: DEEEFF   IR: 386729   EMIT: F742C4   RR: 1790A1   PSW: AF79A5 Register Values:9B990E C9787D DADA99 9A0652 D9D162 B2AE41 A95EEC 403737 
+
+BURST REACHED...now terminating...
+
+ID: 98 Name: proc_2178  State: t   Priority: 1  Arrival Time: 45   CPU Burst Time: 109  	XAR: a2c86f   XDI: 22a29d   XDO: 35d161   PC: 507dff   IR: de563e   EMIT: a91437   RR: ed216d   PSW: 18b645 Register Values:dd9925 b63a40 2ddac7 987948 6b8de4 3ca821 cecb4c 18304a 
+
+GLOBAL TIME: 14364
+CPU TIME: 109
+
+STARTING WORK ON: 
+ID: 99 Name: proc_10493 State: e   Priority: 9  Arrival Time: 46   CPU Burst Time: 145  	XAR: D8E4AC   XDI: B6264C   XDO: 78C164   PC: BC9B90   IR: 262F6C   EMIT: D55FCA   RR: 6A395    PSW: CEF7D0 Register Values:14FEB9 DBBF2B F930A 4143BD DA1839 22A0A1 D749BC 717A86 
+
+BURST REACHED...now terminating...
+
+ID: 99 Name: proc_10493 State: t   Priority: 9  Arrival Time: 46   CPU Burst Time: 145  	XAR: e2c051   XDI: ae759e   XDO: 43687f   PC: 3329cd   IR: 55173a   EMIT: 3043e5   RR: 8d554a   PSW: 625b76 Register Values:f57767 e0bb65 d08519 6e1898 339ad1 39d68d f889f6 e80e24 
+
+GLOBAL TIME: 14510
+CPU TIME: 145
+
+STARTING WORK ON: 
+ID: 0 Name: proc_48274 State: e   Priority: 16 Arrival Time: 46   CPU Burst Time: 0    	XAR: 647ED2   XDI: C8870F   XDO: 6F230C   PC: 8E1F80   IR: A5E4FE   EMIT: 5BC878   RR: 82E5AC   PSW: A4629 Register Values:8E7C67 F1BE40 47DFBB 5220BC 220EF9 21079A 82F77 E8277F 
+
+BURST REACHED...now terminating...
+
+ID: 0 Name: proc_48274 State: t   Priority: 16 Arrival Time: 46   CPU Burst Time: 0    	XAR: 647ED2   XDI: C8870F   XDO: 6F230C   PC: 8E1F80   IR: A5E4FE   EMIT: 5BC878   RR: 82E5AC   PSW: A4629 Register Values:8E7C67 F1BE40 47DFBB 5220BC 220EF9 21079A 82F77 E8277F 
+
+GLOBAL TIME: 14511
+CPU TIME: 0
+
+STARTING WORK ON: 
+ID: 1 Name: proc_25539 State: e   Priority: 12 Arrival Time: 47   CPU Burst Time: 219  	XAR: BC8A8B   XDI: 96A014   XDO: 8DCBDD   PC: E8723D   IR: 49EB1C   EMIT: E00563   RR: C3C387   PSW: 824E16 Register Values:A5F014 382AA3 3E04F1 6E9E81 B1E2F3 553D70 84A5E C43134 
+
+BURST REACHED...now terminating...
+
+ID: 1 Name: proc_25539 State: t   Priority: 12 Arrival Time: 47   CPU Burst Time: 219  	XAR: 3e86af   XDI: 384d05   XDO: 75f1af   PC: 6471b7   IR: ef0aea   EMIT: a92ef2   RR: f5827a   PSW: e1996a Register Values:661685 9cd30d 891892 6ea124 f25f11 633ec8 a4d872 e538de 
+
+GLOBAL TIME: 14731
+CPU TIME: 219
+
+STARTING WORK ON: 
+ID: 2 Name: proc_59307 State: e   Priority: 6  Arrival Time: 48   CPU Burst Time: 100  	XAR: A34E66   XDI: 22C458   XDO: BA8F39   PC: D219     IR: 527832   EMIT: BD37B5   RR: A5DC2E   PSW: 19C03F Register Values:C41230 B37101 64B495 7B833 594015 FF724B 5C41A1 EA804D 
+
+BURST REACHED...now terminating...
+
+ID: 2 Name: proc_59307 State: t   Priority: 6  Arrival Time: 48   CPU Burst Time: 100  	XAR: f2aa1c   XDI: 5f563f   XDO: cece94   PC: 928e26   IR: 9fb5c2   EMIT: b26510   RR: 9f93d0   PSW: 3767ca Register Values:1698d2 7d5179 75b0b6 7899ff 2ed52e c8e310 bcdf90 598791 
+
+GLOBAL TIME: 14832
+CPU TIME: 100
+
+STARTING WORK ON: 
+ID: 3 Name: proc_14751 State: e   Priority: -17 Arrival Time: 50   CPU Burst Time: 44   	XAR: 256FD6   XDI: B27E25   XDO: 247522   PC: C0F531   IR: 2091E3   EMIT: F56121   RR: 863CB7   PSW: 95B4A8 Register Values:8B49C1 483B7F 9B95D E0EE5E 34D573 33D5E5 B7F061 1773B5 
+
+BURST REACHED...now terminating...
+
+ID: 3 Name: proc_14751 State: t   Priority: -17 Arrival Time: 50   CPU Burst Time: 44   	XAR: be6a2b   XDI: 1ec5bc   XDO: 3e25e0   PC: 485e4d   IR: b8db31   EMIT: 607247   RR: df0ce3   PSW: 4998ef Register Values:aa1052 34654b 42c1db 5ba8c7 17963f 31040f 61c157 5e46d1 
+
+GLOBAL TIME: 14877
+CPU TIME: 44
+
+STARTING WORK ON: 
+ID: 4 Name: proc_52999 State: e   Priority: -2 Arrival Time: 50   CPU Burst Time: 213  	XAR: 275F09   XDI: B6EE78   XDO: AE8E68   PC: 2C9632   IR: A3632F   EMIT: C89E71   RR: 13F123   PSW: 722DD9 Register Values:37B0C5 6F035C E38A73 FE4D36 3349C7 472520 3DA7F6 29C8BD 
+
+BURST REACHED...now terminating...
+
+ID: 4 Name: proc_52999 State: t   Priority: -2 Arrival Time: 50   CPU Burst Time: 213  	XAR: a3fe9a   XDI: 9cb852   XDO: 19ba27   PC: e18443   IR: dcf1ce   EMIT: dc6ac6   RR: aef94a   PSW: dbd426 Register Values:69265f 5499e1 7a791b b0e0fc 280285 b5cce3 f0dab5 57b957 
+
+GLOBAL TIME: 15091
+CPU TIME: 213
+
+STARTING WORK ON: 
+ID: 5 Name: proc_45087 State: e   Priority: 8  Arrival Time: 50   CPU Burst Time: 247  	XAR: 9B423A   XDI: A47F10   XDO: CC8B0A   PC: 34B841   IR: C7DCE    EMIT: 457DA7   RR: B0DB29   PSW: B28173 Register Values:EBC41B F3B96C 4412CD 6AEAE5 6937E7 A02B5 633E94 442733 
+
+BURST REACHED...now terminating...
+
+ID: 5 Name: proc_45087 State: t   Priority: 8  Arrival Time: 50   CPU Burst Time: 247  	XAR: d7b08f   XDI: c7ddfe   XDO: 4bbfa0   PC: c64a4f   IR: 4405ff   EMIT: 30e200   RR: 2dafba   PSW: c13c39 Register Values:8868ef 2f8fc4 544547 fdb3fa 1e3400 bb6e56 5eb3dc c15e97 
+
+GLOBAL TIME: 15339
+CPU TIME: 247
+
+STARTING WORK ON: 
+ID: 6 Name: proc_10634 State: e   Priority: -12 Arrival Time: 52   CPU Burst Time: 248  	XAR: E6A6FC   XDI: 58CDEF   XDO: B85138   PC: 68143E   IR: 2506B0   EMIT: F09BC    RR: ECAF61   PSW: E8AF70 Register Values:A1FD70 133717 A772A5 D59744 5AF8C8 12E20B 2DBB11 FEABA1 
+
+BURST REACHED...now terminating...
+
+ID: 6 Name: proc_10634 State: t   Priority: -12 Arrival Time: 52   CPU Burst Time: 248  	XAR: 1dc6b6   XDI: 789e16   XDO: 8ade8c   PC: ebebb2   IR: 9fa0f6   EMIT: a5a1b7   RR: 911c53   PSW: 24f690 Register Values:482aa3 6f1d7c 9c4022 91b1ee 6e8772 3be153 3f5720 4bd217 
+
+GLOBAL TIME: 15588
+CPU TIME: 248
+
+STARTING WORK ON: 
+ID: 7 Name: proc_6541  State: e   Priority: 9  Arrival Time: 52   CPU Burst Time: 40   	XAR: D1B21B   XDI: 71926B   XDO: 4E443E   PC: 9D65A3   IR: C3A2BE   EMIT: A01EAE   RR: B1BC0D   PSW: A818AB Register Values:4EBAE7 A4B26 A37F72 F0EA5E E60ECF BA777A BFD7B 9B7669 
+
+BURST REACHED...now terminating...
+
+ID: 7 Name: proc_6541  State: t   Priority: 9  Arrival Time: 52   CPU Burst Time: 40   	XAR: 45e135   XDI: e3cd17   XDO: d08876   PC: 970ae8   IR: 57861b   EMIT: 2a447e   RR: 84f04e   PSW: 987203 Register Values:420c6b 15f461 48393e 24d70c 9ca193 c44f37 596aa6 8f1cc6 
+
+GLOBAL TIME: 15629
+CPU TIME: 40
+
+STARTING WORK ON: 
+ID: 8 Name: proc_1612  State: e   Priority: -13 Arrival Time: 53   CPU Burst Time: 148  	XAR: 6D3A3F   XDI: 7BC90B   XDO: 1C29EE   PC: ACC137   IR: D5E1A3   EMIT: 1B26CA   RR: 7AD4FE   PSW: 6CBA1 Register Values:99441A 4ACE21 362F16 73BED4 8E9A31 D39852 3C3517 D530D5 
+
+BURST REACHED...now terminating...
+
+ID: 8 Name: proc_1612  State: t   Priority: -13 Arrival Time: 53   CPU Burst Time: 148  	XAR: ea4a09   XDI: ed7b28   XDO: b69e44   PC: 92ff4a   IR: 7974a2   EMIT: 1c2445   RR: e781b2   PSW: 969a69 Register Values:3ccb2d 6a4099 fd069a f16334 19c693 fe22c8 aab7f1 65d845 
+
+GLOBAL TIME: 15778
+CPU TIME: 148
+
+STARTING WORK ON: 
+ID: 9 Name: proc_23776 State: e   Priority: -19 Arrival Time: 54   CPU Burst Time: 120  	XAR: 6E4E98   XDI: A598C4   XDO: FAAD0B   PC: 9DA19    IR: 8395A7   EMIT: 168B8C   RR: A22789   PSW: 669F7C Register Values:88EDEA 649B85 E0857F E328DC CFF725 5B10FB EC2E46 984FD6 
+
+BURST REACHED...now terminating...
+
+ID: 9 Name: proc_23776 State: t   Priority: -19 Arrival Time: 54   CPU Burst Time: 120  	XAR: 64b57e   XDI: cbffd4   XDO: 7fef75   PC: 61e5e1   IR: 465d14   EMIT: e0bfe7   RR: 230daf   PSW: 4aba36 Register Values:671c2f fa5274 b57479 d6d659 c7e53b 3033fb e98bc0 394d42 
+
+GLOBAL TIME: 15899
+CPU TIME: 120
+
+STARTING WORK ON: 
+ID: 10 Name: proc_40115 State: e   Priority: 7  Arrival Time: 54   CPU Burst Time: 143  	XAR: B481FD   XDI: FF1418   XDO: 49F616   PC: 5FECEC   IR: 50AF69   EMIT: E1A7E4   RR: 217B30   PSW: C4D1A2 Register Values:AF35CB 3B5224 552626 1D5067 E44FC3 591C49 37E975 C9FA9D 
+
+BURST REACHED...now terminating...
+
+ID: 10 Name: proc_40115 State: t   Priority: 7  Arrival Time: 54   CPU Burst Time: 143  	XAR: 9ede3d   XDI: 263457   XDO: 83ac0d   PC: cbd475   IR: 255fc3   EMIT: e0f9ec   RR: b066f8   PSW: 6cd623 Register Values:82eb0b bea804 b50da8 783c38 11f2f0 1394df 9c4b13 89e9d5 
+
+GLOBAL TIME: 16043
+CPU TIME: 143
+
+STARTING WORK ON: 
+ID: 11 Name: proc_39927 State: e   Priority: -3 Arrival Time: 55   CPU Burst Time: 122  	XAR: 4F7D9D   XDI: E4952B   XDO: 8CE26C   PC: 46368    IR: 1A7E1F   EMIT: 4F89CC   RR: A0AB00   PSW: 380DAA Register Values:148041 8F85CB 6484F9 2AFAA7 1082A3 9DA62F 89A111 831080 
+
+BURST REACHED...now terminating...
+
+ID: 11 Name: proc_39927 State: t   Priority: -3 Arrival Time: 55   CPU Burst Time: 122  	XAR: 17c8b5   XDI: 17877a   XDO: 499074   PC: 67a39e   IR: e66b6e   EMIT: 55bf4d   RR: a7aff3   PSW: 254385 Register Values:e2d5c4 895ee3 54b007 da5d28 657a02 dcce73 6d5c80 89236e 
+
+GLOBAL TIME: 16166
+CPU TIME: 122
+
+STARTING WORK ON: 
+ID: 12 Name: proc_47696 State: e   Priority: -2 Arrival Time: 56   CPU Burst Time: 145  	XAR: A992CA   XDI: C60E46   XDO: 91F206   PC: 99A759   IR: A5826E   EMIT: CE1F53   RR: E75F4D   PSW: C3A1AD Register Values:DB8960 147DC2 94794F 98B189 822BE0 41C74C 875C43 8A2F87 
+
+BURST REACHED...now terminating...
+
+ID: 12 Name: proc_47696 State: t   Priority: -2 Arrival Time: 56   CPU Burst Time: 145  	XAR: 51f08f   XDI: a553b3   XDO: c951e6   PC: 80b4af   IR: 356b39   EMIT: d88954   RR: 8eb87d   PSW: 28fd3e Register Values:5eec54 6148ec 903a6b 87e61b 2173ef efacb5 eb54fd 7012ff 
+
+GLOBAL TIME: 16312
+CPU TIME: 145
+
+STARTING WORK ON: 
+ID: 13 Name: proc_9235  State: e   Priority: 8  Arrival Time: 56   CPU Burst Time: 283  	XAR: 35E492   XDI: 3C3625   XDO: F885B7   PC: 1E13B4   IR: 6B2978   EMIT: B60A7F   RR: F6B573   PSW: E85100 Register Values:7E5F35 A95809 B8BA09 15D35F B3D7BC E5608C 50D36A 778515 
+
+BURST REACHED...now terminating...
+
+ID: 13 Name: proc_9235  State: t   Priority: 8  Arrival Time: 56   CPU Burst Time: 283  	XAR: 2d1cfd   XDI: bd514b   XDO: 5b6e78   PC: 7c9a42   IR: fbf9c8   EMIT: a047b1   RR: 6ea5ba   PSW: 5b0b95 Register Values:a85bbb 11c582 99e7cc 3becbb 5866cf 9117cb c42a4c 54cf35 
+
+GLOBAL TIME: 16596
+CPU TIME: 283
+
+STARTING WORK ON: 
+ID: 14 Name: proc_38307 State: e   Priority: 17 Arrival Time: 56   CPU Burst Time: 31   	XAR: 17DB14   XDI: CE7382   XDO: B4B5CA   PC: 2033AB   IR: CED3A7   EMIT: E92AD2   RR: 948227   PSW: 70A947 Register Values:B3B41C 7B4ACE 5B8D23 6EB2E0 F02DC8 C16F6D EF98D4 6875BB 
+
+BURST REACHED...now terminating...
+
+ID: 14 Name: proc_38307 State: t   Priority: 17 Arrival Time: 56   CPU Burst Time: 31   	XAR: 10b9be   XDI: ae25ca   XDO: 1df1bd   PC: 329ab5   IR: 20bc3d   EMIT: 85ed01   RR: 1026a3   PSW: e4772e Register Values:4d5df6 79605e 6b31a2 37108b 80ec4b 656af0 35105b de3daf 
+
+GLOBAL TIME: 16628
+CPU TIME: 31
+
+STARTING WORK ON: 
+ID: 15 Name: proc_11044 State: e   Priority: 7  Arrival Time: 57   CPU Burst Time: 158  	XAR: 4DF1B9   XDI: 86F0F    XDO: B12E7C   PC: 4DD622   IR: 4CED10   EMIT: E04E82   RR: 1944EA   PSW: 97F42A Register Values:31F40A F5D9CB 8E6074 A39685 CE296F 8321EF 64CDFB A56D5B 
+
+BURST REACHED...now terminating...
+
+ID: 15 Name: proc_11044 State: t   Priority: 7  Arrival Time: 57   CPU Burst Time: 158  	XAR: 5ada88   XDI: 41f37e   XDO: 1a5580   PC: 3869b3   IR: 1970d6   EMIT: 4ea0ec   RR: 2fdf1f   PSW: 70e422 Register Values:57fe1a feeddb 2a03a5 a79e66 aa7f4b 48d2f1 8d3272 fae103 
+
+GLOBAL TIME: 16787
+CPU TIME: 158
+
+STARTING WORK ON: 
+ID: 16 Name: proc_63465 State: e   Priority: 0  Arrival Time: 58   CPU Burst Time: 73   	XAR: 396B2D   XDI: 15E000   XDO: 98FB7B   PC: D69898   IR: 21C64E   EMIT: 19094D   RR: B29EB5   PSW: FED6BB Register Values:2417E2 5CBD45 C75C8A 203363 96F0A6 F5DAFF B254C1 636024 
+
+BURST REACHED...now terminating...
+
+ID: 16 Name: proc_63465 State: t   Priority: 0  Arrival Time: 58   CPU Burst Time: 73   	XAR: 39c688   XDI: 5d4392   XDO: c97582   PC: 55dc2b   IR: b65485   EMIT: e0a1f7   RR: 2e0292   PSW: 8bb686 Register Values:27472c bec206 59f393 6c36d1 57e257 d9609b ae1ac6 fae4be 
+
+GLOBAL TIME: 16861
+CPU TIME: 73
+
+STARTING WORK ON: 
+ID: 17 Name: proc_42857 State: e   Priority: 4  Arrival Time: 58   CPU Burst Time: 29   	XAR: 620309   XDI: 542685   XDO: F2EEF0   PC: B1F231   IR: 1524D1   EMIT: 2C48BD   RR: ED5F10   PSW: 678B37 Register Values:8B0415 D010B4 482C CD8E7B 330F27 155EA3 B22205 BC364B 
+
+BURST REACHED...now terminating...
+
+ID: 17 Name: proc_42857 State: t   Priority: 4  Arrival Time: 58   CPU Burst Time: 29   	XAR: c540c3   XDI: e159ee   XDO: 16d58c   PC: 70a28c   IR: eb9139   EMIT: 1e8e50   RR: 4732af   PSW: bdd846 Register Values:e223f0 17919c ff04d8 b073d2 a1b2e2 ebccc7 d552bb acf5f4 
+
+GLOBAL TIME: 16891
+CPU TIME: 29
+
+STARTING WORK ON: 
+ID: 18 Name: proc_16498 State: e   Priority: 13 Arrival Time: 58   CPU Burst Time: 84   	XAR: D0EC49   XDI: 7D2C9C   XDO: 18A031   PC: C1391F   IR: 19C401   EMIT: 20EE76   RR: D11003   PSW: 21E001 Register Values:996EEF DFF8AA 928109 30044 89E5C5 6D45FD F4B2F2 4D7591 
+
+BURST REACHED...now terminating...
+
+ID: 18 Name: proc_16498 State: t   Priority: 13 Arrival Time: 58   CPU Burst Time: 84   	XAR: a0555f   XDI: f8d367   XDO: 6440de   PC: 6a45f9   IR: b80f8b   EMIT: e6ed7c   RR: 1cb719   PSW: b34d16 Register Values:a21037 5fd553 72943a 7ae712 b73c24 ffaa3c a6b056 e922ae 
+
+GLOBAL TIME: 16976
+CPU TIME: 84
+
+STARTING WORK ON: 
+ID: 19 Name: proc_54705 State: e   Priority: -15 Arrival Time: 59   CPU Burst Time: 22   	XAR: 2AC000   XDI: A5882E   XDO: 27C9DB   PC: CB66FD   IR: F8102    EMIT: 444BB1   RR: EBA2A3   PSW: D694F Register Values:F9C9F7 6B6595 2EEE6A F92EDC 9EB3E0 B11BED 9A04A2 EECB35 
+
+BURST REACHED...now terminating...
+
+ID: 19 Name: proc_54705 State: t   Priority: -15 Arrival Time: 59   CPU Burst Time: 22   	XAR: 772c84   XDI: ec6d72   XDO: 2ed91f   PC: b7c006   IR: 311c6a   EMIT: 6bcc95   RR: 4a4cea   PSW: 2cad69 Register Values:4ae314 924e9d d46f98 20fd2b 114648 2a07f8 c592fc 12197e 
+
+GLOBAL TIME: 16999
+CPU TIME: 22
+
+STARTING WORK ON: 
+ID: 20 Name: proc_33095 State: e   Priority: -15 Arrival Time: 59   CPU Burst Time: 256  	XAR: B81638   XDI: 8C8BA3   XDO: CA37DB   PC: B3B7EE   IR: 3110D9   EMIT: A061F4   RR: C8744D   PSW: F9816F Register Values:9FDEE7 B70B23 20416 FFCE4 A760F7 274B4D 89E0E7 BE6F3C 
+
+BURST REACHED...now terminating...
+
+ID: 20 Name: proc_33095 State: t   Priority: -15 Arrival Time: 59   CPU Burst Time: 256  	XAR: 4547e4   XDI: 343396   XDO: 2c0e56   PC: 43eb94   IR: 859a08   EMIT: b16ae2   RR: b9be90   PSW: 193d3e Register Values:619064 41a69b 6f90db e2b217 e6520d 681004 1836d1 428de9 
+
+GLOBAL TIME: 17256
+CPU TIME: 256
+
+STARTING WORK ON: 
+ID: 21 Name: proc_30903 State: e   Priority: 10 Arrival Time: 59   CPU Burst Time: 38   	XAR: BF7B5D   XDI: D94E23   XDO: AB43E0   PC: 41BBED   IR: 52922B   EMIT: C95678   RR: 13101B   PSW: A70869 Register Values:C61811 1CEE18 9405D0 9389C2 7FAEEC 75755C D82679 FFF5F9 
+
+BURST REACHED...now terminating...
+
+ID: 21 Name: proc_30903 State: t   Priority: 10 Arrival Time: 59   CPU Burst Time: 38   	XAR: 9df610   XDI: 83b5d0   XDO: cd5108   PC: a3c80d   IR: 2e9eb4   EMIT: 3496ab   RR: 889669   PSW: abf214 Register Values:ffd60c 38a8d2 46fa2d 3d0281 3ec794 ec3f59 cac563 df307c 
+
+GLOBAL TIME: 17295
+CPU TIME: 38
+
+STARTING WORK ON: 
+ID: 22 Name: proc_38033 State: e   Priority: 1  Arrival Time: 60   CPU Burst Time: 36   	XAR: 4C9605   XDI: 5A9897   XDO: 31DD1A   PC: 1313EF   IR: 3A5B33   EMIT: 6F1951   RR: 2E53E2   PSW: 26361 Register Values:573D56 E18126 67C852 C25771 147B1F C96664 62C3EE 88BD4A 
+
+BURST REACHED...now terminating...
+
+ID: 22 Name: proc_38033 State: t   Priority: 1  Arrival Time: 60   CPU Burst Time: 36   	XAR: a8e7ba   XDI: 7470a9   XDO: 6b74c0   PC: 65b7bc   IR: 4087f2   EMIT: 87d46d   RR: 307800   PSW: e79153 Register Values:a85953 21d8c6 afbed9 7ffcec 825fcc 33edc7 ce5467 1aab68 
+
+GLOBAL TIME: 17332
+CPU TIME: 36
+
+STARTING WORK ON: 
+ID: 23 Name: proc_19654 State: e   Priority: 10 Arrival Time: 60   CPU Burst Time: 41   	XAR: A3E7DC   XDI: 25D479   XDO: 73CF64   PC: BF9D77   IR: 7A207A   EMIT: 7FF475   RR: 7AAAA8   PSW: 9C9A92 Register Values:D0E664 E94A37 18BD7 77FB03 F9443E 83E8C 75DCD0 30C975 
+
+BURST REACHED...now terminating...
+
+ID: 23 Name: proc_19654 State: t   Priority: 10 Arrival Time: 60   CPU Burst Time: 41   	XAR: 813386   XDI: b43e5d   XDO: 14fd19   PC: ee20dc   IR: 1bda65   EMIT: 2f12a3   RR: 33e922   PSW: 78bb23 Register Values:454340 af6e9b 3172f1 702a05 eaa245 2733e6 22b874 450f66 
+
+GLOBAL TIME: 17374
+CPU TIME: 41
+
+STARTING WORK ON: 
+ID: 24 Name: proc_26486 State: e   Priority: -2 Arrival Time: 62   CPU Burst Time: 250  	XAR: 7B1A5E   XDI: B431D2   XDO: 6C8336   PC: 3CF229   IR: 32A929   EMIT: D83327   RR: 80EF0A   PSW: AD48C0 Register Values:145BA3 3B9FBA CBF699 413F2E 20EA87 6B0F38 F65475 1A020C 
+
+BURST REACHED...now terminating...
+
+ID: 24 Name: proc_26486 State: t   Priority: -2 Arrival Time: 62   CPU Burst Time: 250  	XAR: 36921e   XDI: d6b578   XDO: ecaa10   PC: 9fca5a   IR: e83996   EMIT: 62e738   RR: 261e98   PSW: 21ceae Register Values:ac1aec eff90b 78a8ef 6a31bb f62009 1075af 384ceb 9f42b2 
+
+GLOBAL TIME: 17625
+CPU TIME: 250
+
+STARTING WORK ON: 
+ID: 25 Name: proc_37308 State: e   Priority: 4  Arrival Time: 62   CPU Burst Time: 122  	XAR: 5B9EA1   XDI: 470114   XDO: 2CB1F5   PC: 416D3F   IR: 1EA359   EMIT: 64F7CA   RR: A182E4   PSW: CB06AE Register Values:2236B2 EDE922 B72718 153D8D 966408 B9C19A BA625C 67B374 
+
+BURST REACHED...now terminating...
+
+ID: 25 Name: proc_37308 State: t   Priority: 4  Arrival Time: 62   CPU Burst Time: 122  	XAR: 85d45d   XDI: dda3d4   XDO: e68a58   PC: 864f82   IR: 32d31b   EMIT: 706aa1   RR: b96a62   PSW: d086b9 Register Values:de8879 ee21be 7e65bf 9d9111 38e96c 1f2c6a c0737e 482ef1 
+
+GLOBAL TIME: 17748
+CPU TIME: 122
+
+STARTING WORK ON: 
+ID: 26 Name: proc_45765 State: e   Priority: -7 Arrival Time: 63   CPU Burst Time: 240  	XAR: ABBAB2   XDI: CDA9F5   XDO: 4757A6   PC: 603A2    IR: B330BF   EMIT: 8BF338   RR: FF07CD   PSW: EF0F43 Register Values:94E3CE 6F1E25 CFFF3 6147E 5B437C DA0BC4 BA99FA BEFF66 
+
+BURST REACHED...now terminating...
+
+ID: 26 Name: proc_45765 State: t   Priority: -7 Arrival Time: 63   CPU Burst Time: 240  	XAR: f1b03f   XDI: f223b3   XDO: e8f979   PC: cc7d5f   IR: 28f6e9   EMIT: 47ab06   RR: 1a33d9   PSW: ef5ea1 Register Values:3ed72b 54b8b5 7227d3 5d77f3 f9196c d79b4a 87652b ea19e4 
+
+GLOBAL TIME: 17989
+CPU TIME: 240
+
+STARTING WORK ON: 
+ID: 27 Name: proc_12474 State: e   Priority: 1  Arrival Time: 63   CPU Burst Time: 21   	XAR: 66B41    XDI: 12FA6B   XDO: B1384    PC: A9C7FD   IR: 8088E    EMIT: 1D77CE   RR: B40A03   PSW: B5B246 Register Values:74F977 87936F 5FB0A3 7EBF2B 867AF1 DA0DFD 3C5074 337FFE 
+
+BURST REACHED...now terminating...
+
+ID: 27 Name: proc_12474 State: t   Priority: 1  Arrival Time: 63   CPU Burst Time: 21   	XAR: c5cbd8   XDI: e12d19   XDO: 42603b   PC: ec4941   IR: 61c5ae   EMIT: 906cd2   RR: a9a06e   PSW: 1d9ee5 Register Values:a58433 b0cdae 1cf96f 85cdac 123488 e92f78 9f35ce 207dd2 
+
+GLOBAL TIME: 18011
+CPU TIME: 21
+
+STARTING WORK ON: 
+ID: 28 Name: proc_56787 State: e   Priority: 11 Arrival Time: 63   CPU Burst Time: 263  	XAR: C2B603   XDI: D7DDEA   XDO: 8C3DD    PC: 79EC9D   IR: 14B3F1   EMIT: EA827    RR: 777F86   PSW: 2FF78E Register Values:18605 5D631B 3A1D5D 4CF915 A3C354 1C8413 88D40D DC1032 
+
+BURST REACHED...now terminating...
+
+ID: 28 Name: proc_56787 State: t   Priority: 11 Arrival Time: 63   CPU Burst Time: 263  	XAR: 8506f7   XDI: 8e4857   XDO: 49f503   PC: 233c0b   IR: cd435c   EMIT: 6e8b94   RR: f7e69c   PSW: 369884 Register Values:fb586c 8b842f 8df901 2e26ec 6eb59d f5709f 4723cc 2dd1bb 
+
+GLOBAL TIME: 18275
+CPU TIME: 263
+
+STARTING WORK ON: 
+ID: 29 Name: proc_30348 State: e   Priority: -13 Arrival Time: 64   CPU Burst Time: 26   	XAR: A84932   XDI: A3647C   XDO: 682606   PC: 461D61   IR: FB5C1A   EMIT: 8885E1   RR: 8F523    PSW: 310665 Register Values:592878 4C9164 AFB572 1ACB51 A0B77 100B0B F04195 EE84A2 
+
+BURST REACHED...now terminating...
+
+ID: 29 Name: proc_30348 State: t   Priority: -13 Arrival Time: 64   CPU Burst Time: 26   	XAR: cbaa65   XDI: 52e41c   XDO: 7561b7   PC: 943d57   IR: acf3af   EMIT: 4fd389   RR: accd95   PSW: e46061 Register Values:ad06cb 656d1f d154ec 5ed19b 3ead30 c2a5c9 659f50 7f85b3 
+
+GLOBAL TIME: 18302
+CPU TIME: 26
+
+STARTING WORK ON: 
+ID: 30 Name: proc_14760 State: e   Priority: 17 Arrival Time: 66   CPU Burst Time: 187  	XAR: 7A6255   XDI: B5C7B1   XDO: DA96FE   PC: 711861   IR: 528745   EMIT: F00F3    RR: 2EEE5B   PSW: 1A8879 Register Values:E9BE15 76B023 6720E4 E150A0 64298D 6E24E3 4A370F E77709 
+
+BURST REACHED...now terminating...
+
+ID: 30 Name: proc_14760 State: t   Priority: 17 Arrival Time: 66   CPU Burst Time: 187  	XAR: cbb00e   XDI: 536a44   XDO: 7fc08e   PC: 62819a   IR: c181a0   EMIT: 5d56c5   RR: df04eb   PSW: 32b753 Register Values:7d6db3 c776b7 4f8d51 2552ba 3f0723 5f3e5b 2235d3 5fb9f1 
+
+GLOBAL TIME: 18490
+CPU TIME: 187
+
+STARTING WORK ON: 
+ID: 31 Name: proc_5388  State: e   Priority: 1  Arrival Time: 67   CPU Burst Time: 273  	XAR: BE733D   XDI: 797872   XDO: AEB9BE   PC: 317812   IR: 7CFC44   EMIT: BB0894   RR: C2366D   PSW: F0DE8 Register Values:408A14 5D8EA3 961ABE C14788 532ACD 1443C1 3F5945 F5E6AE 
+
+BURST REACHED...now terminating...
+
+ID: 31 Name: proc_5388  State: t   Priority: 1  Arrival Time: 67   CPU Burst Time: 273  	XAR: 55b8d3   XDI: a31fec   XDO: 8e8cd2   PC: 39bf7c   IR: d47051   EMIT: 799a4f   RR: 733e45   PSW: 6083a7 Register Values:ae054b d1a085 8de100 728dc1 e10a2b d34559 a62548 2ac0bc 
+
+GLOBAL TIME: 18764
+CPU TIME: 273
+
+STARTING WORK ON: 
+ID: 32 Name: proc_61134 State: e   Priority: 6  Arrival Time: 68   CPU Burst Time: 174  	XAR: E8DEA6   XDI: 4E0ECD   XDO: 8EEEDA   PC: 305FC8   IR: 48E653   EMIT: 245046   RR: DF53D8   PSW: 9992FD Register Values:BBB896 A6C516 DB6CBC BA3263 6C270A 578D34 F0F78B 438146 
+
+BURST REACHED...now terminating...
+
+ID: 32 Name: proc_61134 State: t   Priority: 6  Arrival Time: 68   CPU Burst Time: 174  	XAR: 211a2f   XDI: c0417f   XDO: ccb4d4   PC: a7be4f   IR: bbdb55   EMIT: 956e3a   RR: c49f64   PSW: 738ae6 Register Values:7e22ee 22b106 a83e93 f337ff c8da2d fd2663 104d75 e88d34 
+
+GLOBAL TIME: 18939
+CPU TIME: 174
+
+STARTING WORK ON: 
+ID: 33 Name: proc_15731 State: e   Priority: -17 Arrival Time: 69   CPU Burst Time: 59   	XAR: 26A6AE   XDI: CE3EA7   XDO: 46F9F3   PC: AA1C29   IR: BA25AA   EMIT: A9668F   RR: 5D2472   PSW: C72FED Register Values:4CBB6D 53ABE6 93EDD4 EF0711 1FB239 4FA994 415876 84EDE8 
+
+BURST REACHED...now terminating...
+
+ID: 33 Name: proc_15731 State: t   Priority: -17 Arrival Time: 69   CPU Burst Time: 59   	XAR: a83370   XDI: 65c444   XDO: 440381   PC: fa801a   IR: b371b0   EMIT: 28b8c7   RR: 925e7b   PSW: c80349 Register Values:981166 7cebde d2f33a 585880 f8a7ac ac8efb b85830 184b27 
+
+GLOBAL TIME: 18999
+CPU TIME: 59
+
+STARTING WORK ON: 
+ID: 34 Name: proc_3906  State: e   Priority: -14 Arrival Time: 69   CPU Burst Time: 124  	XAR: A72974   XDI: 8635D4   XDO: 482F7B   PC: E854A2   IR: 9E0BF4   EMIT: B307A9   RR: 883EEC   PSW: FA66A5 Register Values:7084A4 7832A1 97400A 72EFD4 4DA689 CDA190 575394 D20D71 
+
+BURST REACHED...now terminating...
+
+ID: 34 Name: proc_3906  State: t   Priority: -14 Arrival Time: 69   CPU Burst Time: 124  	XAR: 649cdc   XDI: d53947   XDO: 67be16   PC: 138348   IR: da632e   EMIT: dfbe58   RR: 7936ac   PSW: d1d92d Register Values:b1b31b 2bf40d 8af360 1b84cf 26310e 272921 eb03bd ae25b3 
+
+GLOBAL TIME: 19124
+CPU TIME: 124
+
+STARTING WORK ON: 
+ID: 35 Name: proc_55317 State: e   Priority: -8 Arrival Time: 69   CPU Burst Time: 85   	XAR: C2295A   XDI: FD56F3   XDO: 89E5E3   PC: C20D48   IR: 534ED2   EMIT: 4A339B   RR: 13411    PSW: C005E Register Values:780A4A 6E2074 EA312F 355CC5 D1BE2D 4F1191 C971DA 5A065C 
+
+BURST REACHED...now terminating...
+
+ID: 35 Name: proc_55317 State: t   Priority: -8 Arrival Time: 69   CPU Burst Time: 85   	XAR: ba2d39   XDI: 5ba626   XDO: 133ab5   PC: 8e2b99   IR: 5781b2   EMIT: e787a5   RR: 735c63   PSW: 6b78a5 Register Values:a0f46d 6c35bb d442bc 29d101 c16e4e 80ab04 e3d3d8 5730aa 
+
+GLOBAL TIME: 19210
+CPU TIME: 85
+
+STARTING WORK ON: 
+ID: 36 Name: proc_22254 State: e   Priority: 10 Arrival Time: 69   CPU Burst Time: 141  	XAR: EEC6A5   XDI: 169118   XDO: 25CD2B   PC: 1D7500   IR: 15D8A9   EMIT: E6A802   RR: F44C7A   PSW: CDEE64 Register Values:DAFCC3 DF0B BE0C20 D63370 F602BD 856180 DB0E93 15E6DA 
+
+BURST REACHED...now terminating...
+
+ID: 36 Name: proc_22254 State: t   Priority: 10 Arrival Time: 69   CPU Burst Time: 141  	XAR: e9ec57   XDI: d9b801   XDO: 551dd2   PC: 1eb91d   IR: 9ae0ff   EMIT: 778441   RR: a7129d   PSW: 1d4d75 Register Values:80a73f 5d1da2 78cac2 428887 434e8c 12b969 b2ef6c a5b9b9 
+
+GLOBAL TIME: 19352
+CPU TIME: 141
+
+STARTING WORK ON: 
+ID: 37 Name: proc_47087 State: e   Priority: 15 Arrival Time: 69   CPU Burst Time: 148  	XAR: ED4E09   XDI: B06186   XDO: 32EE7B   PC: 5F4E76   IR: 5C10AF   EMIT: B21B26   RR: 38E17D   PSW: FD86DF Register Values:40DA7F 8DCDFB DFC32B 644D0D DBB90D 23541 4C5277 EE342A 
+
+BURST REACHED...now terminating...
+
+ID: 37 Name: proc_47087 State: t   Priority: 15 Arrival Time: 69   CPU Burst Time: 148  	XAR: 2ef4e9   XDI: 2fac69   XDO: 4e5b95   PC: 13c7a6   IR: eef65f   EMIT: f4133c   RR: 9549d0   PSW: 8426dc Register Values:f715d4 a72064 fe6351 c80ea8 202328 50d304 f3ab3d 9806c1 
+
+GLOBAL TIME: 19501
+CPU TIME: 148
+
+STARTING WORK ON: 
+ID: 38 Name: proc_19101 State: e   Priority: 10 Arrival Time: 70   CPU Burst Time: 236  	XAR: 8ABF02   XDI: 87F872   XDO: 5F4479   PC: F1B62E   IR: 848575   EMIT: 607931   RR: 5112A9   PSW: 2279B3 Register Values:9BFEA7 1C1B85 7D4139 96BBEB 28214 17080D 34F998 240E4E 
+
+BURST REACHED...now terminating...
+
+ID: 38 Name: proc_19101 State: t   Priority: 10 Arrival Time: 70   CPU Burst Time: 236  	XAR: 1d7004   XDI: dc13bc   XDO: 3d9413   PC: a4b7fe   IR: 77a2fc   EMIT: 21f856   RR: 4699aa   PSW: 2f7f89 Register Values:fb376b c3c3c7 1ca371 a850a0 5a72ac 2a01b1 15b4ac 816cd7 
+
+GLOBAL TIME: 19738
+CPU TIME: 236
+
+STARTING WORK ON: 
+ID: 39 Name: proc_15199 State: e   Priority: 12 Arrival Time: 70   CPU Burst Time: 295  	XAR: FAD112   XDI: 93BD2    XDO: 6015C1   PC: F97869   IR: 3B5497   EMIT: B0F0B7   RR: 73375A   PSW: 8E4897 Register Values:B605E9 ECD564 38FE5E BC448B 58AAC5 887D0F 926A47 F57A33 
+
+BURST REACHED...now terminating...
+
+ID: 39 Name: proc_15199 State: t   Priority: 12 Arrival Time: 70   CPU Burst Time: 295  	XAR: 72070c   XDI: bbee06   XDO: cb16e9   PC: 3c27ff   IR: c0a120   EMIT: c99ed8   RR: cc9d77   PSW: 275363 Register Values:ceed57 8ffa3d 9f7100 dc302e 8f7a36 ef371a aeec6b 526f93 
+
+GLOBAL TIME: 20034
+CPU TIME: 295
+
+STARTING WORK ON: 
+ID: 40 Name: proc_44127 State: e   Priority: -17 Arrival Time: 71   CPU Burst Time: 255  	XAR: F1312A   XDI: 542A26   XDO: ED77D2   PC: 8AED9C   IR: BE636D   EMIT: A26B57   RR: AA37D7   PSW: DBABAF Register Values:CD5BE2 5BBA80 FA6CD7 C2A2B9 1DF1E8 958776 7F2F67 7D7184 
+
+BURST REACHED...now terminating...
+
+ID: 40 Name: proc_44127 State: t   Priority: -17 Arrival Time: 71   CPU Burst Time: 255  	XAR: 344807   XDI: 743e8e   XDO: 3a1e55   PC: 12bbab   IR: a73841   EMIT: f29eb0   RR: 14c5f7   PSW: 8f015f Register Values:8c145f ecb27d 2447d9 6fcd5c ffc166 415083 9ab19a 48680e 
+
+GLOBAL TIME: 20290
+CPU TIME: 255
+
+STARTING WORK ON: 
+ID: 41 Name: proc_45979 State: e   Priority: -2 Arrival Time: 72   CPU Burst Time: 72   	XAR: EF0C35   XDI: 8ABDE7   XDO: 2E6C1C   PC: 28FC4E   IR: 148B32   EMIT: BC3DE0   RR: D2EB85   PSW: FF556C Register Values:B0879B A7AC2A 7C639A 3BF3D3 2F15B9 D9695E 8AEB5 ED1688 
+
+BURST REACHED...now terminating...
+
+ID: 41 Name: proc_45979 State: t   Priority: -2 Arrival Time: 72   CPU Burst Time: 72   	XAR: 625d13   XDI: 595057   XDO: e0b8da   PC: 7cc9ba   IR: c2d0d9   EMIT: 72d6e8   RR: a4014a   PSW: 97b978 Register Values:2e372f 61d1fb 749307 c59790 11a060 5572f1 a9aa55 269026 
+
+GLOBAL TIME: 20363
+CPU TIME: 72
+
+STARTING WORK ON: 
+ID: 42 Name: proc_48635 State: e   Priority: 16 Arrival Time: 72   CPU Burst Time: 16   	XAR: DF898E   XDI: ABC7CE   XDO: A3121D   PC: 72F012   IR: 48BB1C   EMIT: 73CEA2   RR: 5ACCF    PSW: 6E6697 Register Values:E6F0DE 405D76 2526DB D081FC 24B470 DB7E79 BEEA0B 1A671F 
+
+BURST REACHED...now terminating...
+
+ID: 42 Name: proc_48635 State: t   Priority: 16 Arrival Time: 72   CPU Burst Time: 16   	XAR: 4d20b4   XDI: db44bc   XDO: 23750d   PC: fe89c4   IR: c0ce2d   EMIT: 4bfc85   RR: 18dd77   PSW: 40b957 Register Values:3056f6 2dc3e5 b77a4b bbe090 5d2b77 155722 a95fbd a1d02d 
+
+GLOBAL TIME: 20380
+CPU TIME: 16
+
+STARTING WORK ON: 
+ID: 43 Name: proc_3556  State: e   Priority: -8 Arrival Time: 73   CPU Burst Time: 155  	XAR: A3648D   XDI: 475B58   XDO: 8698     PC: 69A6CA   IR: EAB0BE   EMIT: BE8A5D   RR: 82EDA2   PSW: AF8EA4 Register Values:A063FE 58CF3C DAF3F3 426F0D 2BAE22 88A462 1A5E48 86A897 
+
+BURST REACHED...now terminating...
+
+ID: 43 Name: proc_3556  State: t   Priority: -8 Arrival Time: 73   CPU Burst Time: 155  	XAR: 10fc85   XDI: 4ad26b   XDO: 7da59c   PC: c8925d   IR: cc0f34   EMIT: 916354   RR: b7d25d   PSW: 710e0a Register Values:8f9e5f 62887a c47cfa 9632b1 2681c7 fa2148 ea1ae1 129def 
+
+GLOBAL TIME: 20536
+CPU TIME: 155
+
+STARTING WORK ON: 
+ID: 44 Name: proc_45662 State: e   Priority: -5 Arrival Time: 74   CPU Burst Time: 158  	XAR: 987591   XDI: 77B3F8   XDO: 5C4E0B   PC: 50F4DE   IR: 389521   EMIT: 88E82C   RR: A082F1   PSW: 80CA21 Register Values:49356 55AECA 4E96DA CF068B 640032 FA0BEF CA1DBF A41C7F 
+
+BURST REACHED...now terminating...
+
+ID: 44 Name: proc_45662 State: t   Priority: -5 Arrival Time: 74   CPU Burst Time: 158  	XAR: 45715a   XDI: a4823b   XDO: 95ad09   PC: dbf3ba   IR: eabd54   EMIT: dc4fcc   RR: 61bee8   PSW: a15702 Register Values:ee6c6c 17b31b 21ed2c 6966df 2ecb7f d1a574 46a605 a1d59a 
+
+GLOBAL TIME: 20695
+CPU TIME: 158
+
+STARTING WORK ON: 
+ID: 45 Name: proc_9250  State: e   Priority: -3 Arrival Time: 74   CPU Burst Time: 23   	XAR: EF3498   XDI: DB2F32   XDO: 5BD4F0   PC: 9EFC2F   IR: A45A2C   EMIT: 3BAADD   RR: 17D0CD   PSW: A45A69 Register Values:5E1598 93F8DE A49CD4 B1B82E 893444 C52286 E96195 CD0710 
+
+BURST REACHED...now terminating...
+
+ID: 45 Name: proc_9250  State: t   Priority: -3 Arrival Time: 74   CPU Burst Time: 23   	XAR: 4732a8   XDI: 6c35dd   XDO: 94f5c9   PC: cb762c   IR: 73a210   EMIT: eaf39f   RR: 603d30   PSW: 7fb2bb Register Values:10ef92 28bd02 307944 1a87d4 b2d51e 8c178f 500460 95cc74 
+
+GLOBAL TIME: 20719
+CPU TIME: 23
+
+STARTING WORK ON: 
+ID: 46 Name: proc_6133  State: e   Priority: 5  Arrival Time: 74   CPU Burst Time: 142  	XAR: 87DC1C   XDI: 9FBCB0   XDO: 36B133   PC: 382132   IR: FE169    EMIT: 507261   RR: 4B6FB3   PSW: A220D0 Register Values:5B543E 7D37DF 68C367 4F11D0 408B32 90912F F48C19 CE040A 
+
+BURST REACHED...now terminating...
+
+ID: 46 Name: proc_6133  State: t   Priority: 5  Arrival Time: 74   CPU Burst Time: 142  	XAR: 612ff0   XDI: a8e8cd   XDO: 8fd077   PC: 82f2a4   IR: 44a86e   EMIT: 6cb837   RR: c3d4b7   PSW: 2a1945 Register Values:1687ed d63d7c 39b115 163f72 1f9987 602080 370cf6 5ff1c4 
+
+GLOBAL TIME: 20862
+CPU TIME: 142
+
+STARTING WORK ON: 
+ID: 47 Name: proc_24155 State: e   Priority: 6  Arrival Time: 74   CPU Burst Time: 170  	XAR: C6F5B8   XDI: 978B22   XDO: 658B17   PC: 1BC30B   IR: 48BA82   EMIT: 658773   RR: 7076BD   PSW: E7D9ED Register Values:F15384 4887BF FFAF7C 7CFA8C 157FBB CF76E9 AFEB37 F0246D 
+
+BURST REACHED...now terminating...
+
+ID: 47 Name: proc_24155 State: t   Priority: 6  Arrival Time: 74   CPU Burst Time: 170  	XAR: e975ab   XDI: 3f342b   XDO: 75e117   PC: 3b3ff2   IR: ce28ba   EMIT: 12fac2   RR: 5f3af6   PSW: f5f651 Register Values:ec3f58 fcb881 447a99 d31332 f624fd 324d19 af0ddc 995979 
+
+GLOBAL TIME: 21033
+CPU TIME: 170
+
+STARTING WORK ON: 
+ID: 48 Name: proc_15871 State: e   Priority: 19 Arrival Time: 74   CPU Burst Time: 286  	XAR: 6FFD02   XDI: 4603A4   XDO: B13318   PC: 7DBC72   IR: CA5BF    EMIT: E61949   RR: EB4ED    PSW: AB26A6 Register Values:26E320 1935D6 BBD5A3 1EEFFA 7BFD7 714168 5EAC85 4882BC 
+
+BURST REACHED...now terminating...
+
+ID: 48 Name: proc_15871 State: t   Priority: 19 Arrival Time: 74   CPU Burst Time: 286  	XAR: abf3c5   XDI: c6126d   XDO: f85cff   PC: aa24df   IR: 640cb9   EMIT: 469acb   RR: 35a8e1   PSW: 83f3d7 Register Values:cc0f1a 869526 1e9ac3 6856c6 61dd75 fce3cf d049e2 55e231 
+
+GLOBAL TIME: 21320
+CPU TIME: 286
+
+STARTING WORK ON: 
+ID: 49 Name: proc_61934 State: e   Priority: -3 Arrival Time: 75   CPU Burst Time: 124  	XAR: 1B9F02   XDI: 89D3C1   XDO: 3A40E7   PC: 45136E   IR: 9BE04B   EMIT: 1E30AB   RR: 460BDA   PSW: E31343 Register Values:162151 3FA288 D7AF7C 8F1006 806ED7 A299AB 282F05 573AFB 
+
+BURST REACHED...now terminating...
+
+ID: 49 Name: proc_61934 State: t   Priority: -3 Arrival Time: 75   CPU Burst Time: 124  	XAR: d332b3   XDI: 851bd9   XDO: 520646   PC: a1ecb2   IR: e15550   EMIT: 45f339   RR: b8316d   PSW: 485602 Register Values:550ead c55a1e b0a438 b1f2bd e6251b 89340f f48807 c8ade9 
+
+GLOBAL TIME: 21445
+CPU TIME: 124
+
+STARTING WORK ON: 
+ID: 50 Name: proc_25415 State: e   Priority: -19 Arrival Time: 76   CPU Burst Time: 244  	XAR: BEA8C1   XDI: 169E0A   XDO: 54ED0    PC: 5B79F7   IR: CA3BD7   EMIT: 8A3F8D   RR: 8FD68B   PSW: 385E68 Register Values:FE41ED 7BF08B 59C4B7 6266C3 F8C3D8 4F167B DF4ED0 E3D8C 
+
+BURST REACHED...now terminating...
+
+ID: 50 Name: proc_25415 State: t   Priority: -19 Arrival Time: 76   CPU Burst Time: 244  	XAR: 3db08f   XDI: 9d900a   XDO: 1a3cf3   PC: f709dc   IR: 48b55c   EMIT: 835f72   RR: e23cf6   PSW: 5b2af8 Register Values:46c431 666c7a 45c76b 74a782 211634 871674 1cee11 430ce4 
+
+GLOBAL TIME: 21690
+CPU TIME: 244
+
+STARTING WORK ON: 
+ID: 51 Name: proc_18083 State: e   Priority: 17 Arrival Time: 77   CPU Burst Time: 112  	XAR: A19E9C   XDI: 14059D   XDO: C99DAD   PC: C646F5   IR: A4AA26   EMIT: 315A89   RR: C8B4F1   PSW: AB5879 Register Values:E88030 9515A3 A623E6 76BC1F 281900 BB70E1 37B4FA 7E18ED 
+
+BURST REACHED...now terminating...
+
+ID: 51 Name: proc_18083 State: t   Priority: 17 Arrival Time: 77   CPU Burst Time: 112  	XAR: 74511f   XDI: 3601aa   XDO: 525702   PC: 8cdad4   IR: aa8d89   EMIT: 285fdb   RR: 71e305   PSW: 253ce2 Register Values:7113fb 87d510 a374d9 2765b0 1375c2 34f15a f3616a 6be28a 
+
+GLOBAL TIME: 21803
+CPU TIME: 112
+
+STARTING WORK ON: 
+ID: 52 Name: proc_35383 State: e   Priority: -7 Arrival Time: 78   CPU Burst Time: 39   	XAR: F4BE83   XDI: 813DB9   XDO: 605A4    PC: 5CE8E4   IR: 535CA0   EMIT: E0F80E   RR: 103B70   PSW: 648BD0 Register Values:30733B 44B6AA F03418 8BA449 45AD04 9A4197 C26BDB B613C6 
+
+BURST REACHED...now terminating...
+
+ID: 52 Name: proc_35383 State: t   Priority: -7 Arrival Time: 78   CPU Burst Time: 39   	XAR: 5a071f   XDI: b2c75d   XDO: dc0d32   PC: afb6f6   IR: d64d14   EMIT: 17ef13   RR: 1018d1   PSW: b08e33 Register Values:10b874 82565b 365027 e27522 85aa50 71f049 96b65a fba0a6 
+
+GLOBAL TIME: 21843
+CPU TIME: 39
+
+STARTING WORK ON: 
+ID: 53 Name: proc_31421 State: e   Priority: -6 Arrival Time: 78   CPU Burst Time: 11   	XAR: B6C1EC   XDI: 93AAB8   XDO: 59B0D5   PC: CB8EC8   IR: A200E    EMIT: A9AC65   RR: 7E2EAE   PSW: 6ADD4D Register Values:A1E140 DD9984 13C39 5E1BB2 7DEDB8 740BB 507603 53B448 
+
+BURST REACHED...now terminating...
+
+ID: 53 Name: proc_31421 State: t   Priority: -6 Arrival Time: 78   CPU Burst Time: 11   	XAR: 6c4e33   XDI: ee2c97   XDO: b57442   PC: fa28c9   IR: 41f7d5   EMIT: 6c22d5   RR: dfbcde   PSW: b0e18b Register Values:735720 81fdfe ed333d 7580d7 ccb97d bd4716 505a0d ca0ccf 
+
+GLOBAL TIME: 21855
+CPU TIME: 11
+
+STARTING WORK ON: 
+ID: 54 Name: proc_24931 State: e   Priority: -15 Arrival Time: 80   CPU Burst Time: 262  	XAR: 474641   XDI: 80B4F7   XDO: A7FFDB   PC: 1767F    IR: 8ED557   EMIT: 88DAED   RR: B1D2A7   PSW: 517172 Register Values:BBCC2F E8073 987B70 B94E1 1B65 591336 7B2026 60E194 
+
+BURST REACHED...now terminating...
+
+ID: 54 Name: proc_24931 State: t   Priority: -15 Arrival Time: 80   CPU Burst Time: 262  	XAR: aa5eb1   XDI: ee9678   XDO: db8eb7   PC: 65f68d   IR: 4105d5   EMIT: 9aa266   RR: 768c65   PSW: f9eecd Register Values:47e2d2 e9f789 ca60c7 c6343c 804839 ec3d29 e8de20 34a94a 
+
+GLOBAL TIME: 22118
+CPU TIME: 262
+
+STARTING WORK ON: 
+ID: 55 Name: proc_26131 State: e   Priority: -6 Arrival Time: 80   CPU Burst Time: 59   	XAR: C8E127   XDI: 526D56   XDO: 572AF9   PC: C389F7   IR: 33FF49   EMIT: 37756E   RR: E24D8C   PSW: 2E164F Register Values:450F16 26D69B 5D824E 61585C B49FA2 B4163F 36A8B0 235540 
+
+BURST REACHED...now terminating...
+
+ID: 55 Name: proc_26131 State: t   Priority: -6 Arrival Time: 80   CPU Burst Time: 59   	XAR: afb067   XDI: 55e59b   XDO: 915d0b   PC: 9f9db1   IR: 149ea9   EMIT: d36188   RR: 81ab6e   PSW: b214ff Register Values:a41b5b d13886 ab11e6 c2246e bb5d5b 36ac7a 49eaac bedf47 
+
+GLOBAL TIME: 22178
+CPU TIME: 59
+
+STARTING WORK ON: 
+ID: 56 Name: proc_4151  State: e   Priority: 0  Arrival Time: 80   CPU Burst Time: 139  	XAR: 96CB0D   XDI: 96E8D0   XDO: 6C736D   PC: AF3F66   IR: 94E074   EMIT: 3FA784   RR: 85F1E8   PSW: 1605C0 Register Values:119815 47CA2E 65FFB4 C1CFC8 C1BF5B 58FBA7 3193AC 708C75 
+
+BURST REACHED...now terminating...
+
+ID: 56 Name: proc_4151  State: t   Priority: 0  Arrival Time: 80   CPU Burst Time: 139  	XAR: 21ca38   XDI: bc20c2   XDO: 777adc   PC: 90ea0a   IR: 8dead0   EMIT: a2292b   RR: bec7b0   PSW: b6c242 Register Values:39432a 435a94 d36981 c4a8bb 47235c ae320b 76f649 956f3f 
+
+GLOBAL TIME: 22318
+CPU TIME: 139
+
+STARTING WORK ON: 
+ID: 57 Name: proc_61721 State: e   Priority: 14 Arrival Time: 80   CPU Burst Time: 240  	XAR: EF7217   XDI: 3E2554   XDO: DF4BB2   PC: 8D1F7F   IR: C406B1   EMIT: 126E9    RR: 5EE348   PSW: A497E5 Register Values:E7FDFF E6402F A6BDF1 9FA040 F056E4 C072BD 86367 193CF7 
+
+BURST REACHED...now terminating...
+
+ID: 57 Name: proc_61721 State: t   Priority: 14 Arrival Time: 80   CPU Burst Time: 240  	XAR: 702718   XDI: 189d64   XDO: d0ea53   PC: faf6fd   IR: c0f74e   EMIT: 285c54   RR: d27d61   PSW: a11a7e Register Values:98bec8 e11648 e19861 7a2094 35c359 f181cb 407ab8 35710c 
+
+GLOBAL TIME: 22559
+CPU TIME: 240
+
+STARTING WORK ON: 
+ID: 58 Name: proc_56565 State: e   Priority: 17 Arrival Time: 80   CPU Burst Time: 161  	XAR: D6D8F3   XDI: 1B874    XDO: D87F1A   PC: ACD0AE   IR: B253AD   EMIT: 92F431   RR: 16BBD3   PSW: 16E9A5 Register Values:5ECAC0 A8A018 9D35B 8A49FB DBAB11 423470 64429E 280A98 
+
+BURST REACHED...now terminating...
+
+ID: 58 Name: proc_56565 State: t   Priority: 17 Arrival Time: 80   CPU Burst Time: 161  	XAR: 313aaf   XDI: 49dc21   XDO: 806414   PC: 21e035   IR: b5e9bf   EMIT: 2989e4   RR: 1b54ff   PSW: 5458b0 Register Values:93b8ce 56dd96 5cf6bc 6222aa 583cdd 34b919 2d0170 4903b4 
+
+GLOBAL TIME: 22721
+CPU TIME: 161
+
+STARTING WORK ON: 
+ID: 59 Name: proc_423   State: e   Priority: -15 Arrival Time: 81   CPU Burst Time: 190  	XAR: 120B64   XDI: E366CF   XDO: 9F1714   PC: 6C9E57   IR: 3E3024   EMIT: BCDF2A   RR: 3A92FA   PSW: AA70A1 Register Values:55CB1C 1B4DC8 28EFA4 965B01 F1CCFD 6D45C1 19E43 50AE82 
+
+BURST REACHED...now terminating...
+
+ID: 59 Name: proc_423   State: t   Priority: -15 Arrival Time: 81   CPU Burst Time: 190  	XAR: 1a3944   XDI: 4cd35f   XDO: b10b2c   PC: 2f3d51   IR: b1a8bb   EMIT: 9891d7   RR: 7125c8   PSW: bac1a8 Register Values:8c4888 616745 cb2203 c8fe93 d4624e 74f662 1c129b 2ef8a3 
+
+GLOBAL TIME: 22912
+CPU TIME: 190
+
+STARTING WORK ON: 
+ID: 60 Name: proc_5113  State: e   Priority: 5  Arrival Time: 81   CPU Burst Time: 69   	XAR: 666770   XDI: 516D90   XDO: 971238   PC: 490872   IR: E06A79   EMIT: 8EBF2C   RR: 12B20D   PSW: 2C5804 Register Values:4C45D8 2CD485 929DC9 DDA5E8 5CE42E B93A7D C4699A 78B291 
+
+BURST REACHED...now terminating...
+
+ID: 60 Name: proc_5113  State: t   Priority: 5  Arrival Time: 81   CPU Burst Time: 69   	XAR: ad753f   XDI: 4a1a1d   XDO: c2a6e3   PC: 7f6b23   IR: e12930   EMIT: 9321a9   RR: d3b81f   PSW: 25a6d9 Register Values:b2aa19 628fa5 95a463 383eee d03da3 3fade2 c55636 35a72b 
+
+GLOBAL TIME: 22982
+CPU TIME: 69
+
+STARTING WORK ON: 
+ID: 61 Name: proc_8874  State: e   Priority: -15 Arrival Time: 82   CPU Burst Time: 246  	XAR: 1DE7D5   XDI: 20B754   XDO: EE1A93   PC: 66B32    IR: 2C343A   EMIT: 1D4742   RR: 6F54BD   PSW: 68693A Register Values:5D8965 3B0394 81339C F436EB CE12D9 EBCA01 B81805 F4C836 
+
+BURST REACHED...now terminating...
+
+ID: 61 Name: proc_8874  State: t   Priority: -15 Arrival Time: 82   CPU Burst Time: 246  	XAR: 5df267   XDI: 7396c3   XDO: 37f748   PC: f71e57   IR: ffcf35   EMIT: 53adea   RR: 4a89ae   PSW: a28de7 Register Values:a73bea ba2552 4356f1 c03d0a be4101 c64ab8 89f035 6cc34d 
+
+GLOBAL TIME: 23229
+CPU TIME: 246
+
+STARTING WORK ON: 
+ID: 62 Name: proc_28592 State: e   Priority: -12 Arrival Time: 82   CPU Burst Time: 271  	XAR: 1BD2F    XDI: 396AFC   XDO: D58578   PC: 9DBD1B   IR: 17FF40   EMIT: 209F00   RR: D66D56   PSW: 8171B9 Register Values:F3C71D 59F558 58219A 88D842 4302F6 59605F 466C51 96FE08 
+
+BURST REACHED...now terminating...
+
+ID: 62 Name: proc_28592 State: t   Priority: -12 Arrival Time: 82   CPU Burst Time: 271  	XAR: f2063a   XDI: ecdf8a   XDO: 6c7401   PC: 302a56   IR: 3e2a82   EMIT: c05381   RR: 8b5450   PSW: f7209e Register Values:26cfc9 fe17e8 fce80d e4ec0b 1a769c e80b0d 645f32 980d7c 
+
+GLOBAL TIME: 23501
+CPU TIME: 271
+
+STARTING WORK ON: 
+ID: 63 Name: proc_28657 State: e   Priority: -7 Arrival Time: 82   CPU Burst Time: 99   	XAR: 7CA8CE   XDI: 6BC895   XDO: 27F753   PC: 498302   IR: D01AAA   EMIT: 67652D   RR: 137C36   PSW: 8B1AA Register Values:9AA5DF A9B8CF 249759 457D5B D6D596 807AEF 6F2C33 56761B 
+
+BURST REACHED...now terminating...
+
+ID: 63 Name: proc_28657 State: t   Priority: -7 Arrival Time: 82   CPU Burst Time: 99   	XAR: 877514   XDI: 7eb930   XDO: 188f66   PC: 503655   IR: 63b268   EMIT: 25a963   RR: fafdc8   PSW: 4b45c1 Register Values:3391c1 3d8860 7c12fe ebea2b cfba80 86ec3c 467b74 6f5da7 
+
+GLOBAL TIME: 23601
+CPU TIME: 99
+
+STARTING WORK ON: 
+ID: 64 Name: proc_7009  State: e   Priority: -5 Arrival Time: 82   CPU Burst Time: 221  	XAR: A72FCF   XDI: 366C92   XDO: F7EA71   PC: 8B1481   IR: 3E351E   EMIT: 257AC7   RR: 4B9953   PSW: C62F9A Register Values:BEEA2A 8C559F D3982 34E060 BA9741 8CCEA 867A3C 35FD26 
+
+BURST REACHED...now terminating...
+
+ID: 64 Name: proc_7009  State: t   Priority: -5 Arrival Time: 82   CPU Burst Time: 221  	XAR: ba4442   XDI: 25a619   XDO: 30f853   PC: 14d47c   IR: 3f851a   EMIT: f2c704   RR: c91ca3   PSW: 214a8c Register Values:13605a 611c12 eea2ba 1c88d9 115c94 13577b d075bb 2abe09 
+
+GLOBAL TIME: 23823
+CPU TIME: 221
+
+STARTING WORK ON: 
+ID: 65 Name: proc_46400 State: e   Priority: -1 Arrival Time: 82   CPU Burst Time: 120  	XAR: CDF1CB   XDI: 19242E   XDO: ED38DE   PC: F1DC70   IR: 29E753   EMIT: E58DA2   RR: E0D772   PSW: 130F74 Register Values:DA502B C94F4A 1F4D63 44FAEF 4EF751 FAB11 272110 9584EC 
+
+BURST REACHED...now terminating...
+
+ID: 65 Name: proc_46400 State: t   Priority: -1 Arrival Time: 82   CPU Burst Time: 120  	XAR: c3c5b8   XDI: c63776   XDO: a254e9   PC: 6613dc   IR: 9d6ef6   EMIT: 245871   RR: 3421ae   PSW: ce79df Register Values:eef4ba 756e1d 2394cd 92d8fd a0b1cc 3984d3 ac4538 8e226f 
+
+GLOBAL TIME: 23944
+CPU TIME: 120
+
+STARTING WORK ON: 
+ID: 66 Name: proc_49233 State: e   Priority: 13 Arrival Time: 82   CPU Burst Time: 106  	XAR: D0C4F5   XDI: 8AD9AC   XDO: 2EEB0    PC: 6FE0A    IR: A013B5   EMIT: FEB0A    RR: 7CEB98   PSW: B3FFCC Register Values:2EA782 C55BD2 770C30 A4D012 FED849 2F4108 B4697C B945F5 
+
+BURST REACHED...now terminating...
+
+ID: 66 Name: proc_49233 State: t   Priority: 13 Arrival Time: 82   CPU Burst Time: 106  	XAR: 8649b1   XDI: cc00a7   XDO: 4958cc   PC: 3be71e   IR: b2ac92   EMIT: eddce2   RR: 28aac6   PSW: c44419 Register Values:8599e4 74644e caddc2 d0cf0e f33ff8 3e01ce f8e11a 20d05d 
+
+GLOBAL TIME: 24051
+CPU TIME: 106
+
+STARTING WORK ON: 
+ID: 67 Name: proc_16451 State: e   Priority: -13 Arrival Time: 83   CPU Burst Time: 167  	XAR: B3E438   XDI: E4596C   XDO: 64066E   PC: D73567   IR: 9B2C5    EMIT: 1FFA46   RR: 54D00A   PSW: 331CE5 Register Values:A57840 4F633 AD186 1399EF 507297 D0B310 4D712B 42E2FF 
+
+BURST REACHED...now terminating...
+
+ID: 67 Name: proc_16451 State: t   Priority: -13 Arrival Time: 83   CPU Burst Time: 167  	XAR: 924702   XDI: ab89bf   XDO: 7b8e16   PC: 823647   IR: b0f6d8   EMIT: 2cb47e   RR: 150ab6   PSW: 7d4095 Register Values:66b186 b9558c 816a59 8806dd 65520a 654750 c9f9c4 85deac 
+
+GLOBAL TIME: 24219
+CPU TIME: 167
+
+STARTING WORK ON: 
+ID: 68 Name: proc_41562 State: e   Priority: 5  Arrival Time: 83   CPU Burst Time: 73   	XAR: A74B25   XDI: 8669BD   XDO: B17DCD   PC: 1F468B   IR: 44ABC2   EMIT: 3A4F5A   RR: C9B375   PSW: 8454E1 Register Values:7346FF 22F163 5B47CC 46DE34 32A1C 30E009 788882 4CAE83 
+
+BURST REACHED...now terminating...
+
+ID: 68 Name: proc_41562 State: t   Priority: 5  Arrival Time: 83   CPU Burst Time: 73   	XAR: d5155f   XDI: ba0a57   XDO: 1210ac   PC: c80c7c   IR: 5362c6   EMIT: 5215f9   RR: 7e57ad   PSW: 250420 Register Values:d30780 6f1eff 4fc420 5c32ca e0eb34 3b8bda 808599 93c17c 
+
+GLOBAL TIME: 24293
+CPU TIME: 73
+
+STARTING WORK ON: 
+ID: 69 Name: proc_57012 State: e   Priority: 15 Arrival Time: 83   CPU Burst Time: 297  	XAR: 496B45   XDI: B44AB8   XDO: AC6CFA   PC: 1965F2   IR: 1817A0   EMIT: FE7733   RR: F3D0E2   PSW: 402790 Register Values:4CDCB6 46328F A392CA A33DAE 743F38 42E469 E25B8E 56D27F 
+
+BURST REACHED...now terminating...
+
+ID: 69 Name: proc_57012 State: t   Priority: 15 Arrival Time: 83   CPU Burst Time: 297  	XAR: 5bff65   XDI: 475193   XDO: f614e2   PC: 48f1e8   IR: 398735   EMIT: bec83e   RR: ae2e0b   PSW: a3ca34 Register Values:6bbb71 cea135 15f5a6 c32231 4f8d0c 4aa644 dae208 7edd44 
+
+GLOBAL TIME: 24591
+CPU TIME: 297
+
+STARTING WORK ON: 
+ID: 70 Name: proc_20239 State: e   Priority: -7 Arrival Time: 84   CPU Burst Time: 132  	XAR: 34DFC4   XDI: C5CD33   XDO: A5C0E2   PC: 4BE185   IR: FB41F4   EMIT: D0F1EA   RR: 217F21   PSW: C74775 Register Values:A9E190 ABA2DE 3D6A08 37E89C 1381DC 5C6CD5 6EC777 D9E411 
+
+BURST REACHED...now terminating...
+
+ID: 70 Name: proc_20239 State: t   Priority: -7 Arrival Time: 84   CPU Burst Time: 132  	XAR: 1ec9eb   XDI: f7c615   XDO: 1d7025   PC: f09214   IR: 3a8684   EMIT: 8a95ac   RR: 1f48e9   PSW: 973811 Register Values:4fdacb 5d967d cbc7dd 7741e6 745df8 ae69d3 314ffe d803d0 
+
+GLOBAL TIME: 24724
+CPU TIME: 132
+
+STARTING WORK ON: 
+ID: 71 Name: proc_17908 State: e   Priority: 4  Arrival Time: 84   CPU Burst Time: 133  	XAR: 6EF11E   XDI: 6D11B    XDO: E083AA   PC: BCB7D6   IR: 986B81   EMIT: E4A0A1   RR: C56C7    PSW: 933C11 Register Values:E846D1 A5078D 3B484B 35CA2A 998949 28635 749250 125D25 
+
+BURST REACHED...now terminating...
+
+ID: 71 Name: proc_17908 State: t   Priority: 4  Arrival Time: 84   CPU Burst Time: 133  	XAR: 19827e   XDI: b1dd93   XDO: 9d73aa   PC: e71319   IR: e475f6   EMIT: 7328fd   RR: 3c5570   PSW: 5b3568 Register Values:480b12 2bf944 e929db 3be72e c2893f ff4247 a098af d9331a 
+
+GLOBAL TIME: 24858
+CPU TIME: 133
+
+STARTING WORK ON: 
+ID: 72 Name: proc_13946 State: e   Priority: 6  Arrival Time: 84   CPU Burst Time: 160  	XAR: 505139   XDI: D1E344   XDO: 1A834A   PC: D01AFB   IR: E4780    EMIT: D8AC58   RR: 8ED4F6   PSW: 5633E3 Register Values:9225AF 4ABC31 68B4E4 5282C9 1FC353 21D84D 7534C3 6807B6 
+
+BURST REACHED...now terminating...
+
+ID: 72 Name: proc_13946 State: t   Priority: 6  Arrival Time: 84   CPU Burst Time: 160  	XAR: 61e29f   XDI: e0a73c   XDO: 7e8563   PC: b0e406   IR: c57636   EMIT: d6616f   RR: 6ca6ea   PSW: 4ef711 Register Values:4afec0 df730b 7e5769 d19cd9 55be10 a075ed fafae5 968a84 
+
+GLOBAL TIME: 25019
+CPU TIME: 160
+
+STARTING WORK ON: 
+ID: 73 Name: proc_53386 State: e   Priority: -13 Arrival Time: 85   CPU Burst Time: 131  	XAR: BFD47E   XDI: CD2FC5   XDO: 51CD38   PC: 9151E8   IR: 53C5D    EMIT: 7EAFC5   RR: 616702   PSW: B7CAE2 Register Values:DB613A E32D6D B217D2 8E5CBA 92DE72 C90E03 AF872 245EE 
+
+BURST REACHED...now terminating...
+
+ID: 73 Name: proc_53386 State: t   Priority: -13 Arrival Time: 85   CPU Burst Time: 131  	XAR: 96d2aa   XDI: d9b592   XDO: 63cb66   PC: 642991   IR: 48cd41   EMIT: 209a1d   RR: 58932f   PSW: d87771 Register Values:55e17c 8a1e59 169bb7 97541f 23b9ee d7ef1b d57b1d e115cd 
+
+GLOBAL TIME: 25151
+CPU TIME: 131
+
+STARTING WORK ON: 
+ID: 74 Name: proc_29529 State: e   Priority: -4 Arrival Time: 85   CPU Burst Time: 201  	XAR: D7224E   XDI: 13CB00   XDO: D4B241   PC: 52AD8C   IR: 82F366   EMIT: AB29EF   RR: 2B9416   PSW: D4C73 Register Values:E911CB 1E4972 EB41AC 88012 91DFC5 BE0287 551FDC 3F4035 
+
+BURST REACHED...now terminating...
+
+ID: 74 Name: proc_29529 State: t   Priority: -4 Arrival Time: 85   CPU Burst Time: 201  	XAR: 398a84   XDI: ea2f36   XDO: c2dda2   PC: 83b995   IR: 8e8951   EMIT: f44a00   RR: 960340   PSW: b8a886 Register Values:397cc0 c3fea4 a92220 b721bb 928edb 4513a4 ae3993 8b7b26 
+
+GLOBAL TIME: 25353
+CPU TIME: 201
+
+STARTING WORK ON: 
+ID: 75 Name: proc_54733 State: e   Priority: 10 Arrival Time: 85   CPU Burst Time: 245  	XAR: 6214B3   XDI: B3183F   XDO: DC08FF   PC: 4B7DBE   IR: 1EE28    EMIT: A96308   RR: 18E55A   PSW: 8011C Register Values:A09772 751F11 C08B66 B06441 CE92C7 1FA7CC C9CD43 181099 
+
+BURST REACHED...now terminating...
+
+ID: 75 Name: proc_54733 State: t   Priority: 10 Arrival Time: 85   CPU Burst Time: 245  	XAR: 85d4c9   XDI: ee2d99   XDO: c00403   PC: 74435d   IR: 2e619d   EMIT: 228321   RR: 54bd11   PSW: cd7e83 Register Values:2055fa d66171 3802df 7e3a6e 892835 307cd0 8a9c8d 33a800 
+
+GLOBAL TIME: 25599
+CPU TIME: 245
+
+STARTING WORK ON: 
+ID: 76 Name: proc_39343 State: e   Priority: 14 Arrival Time: 85   CPU Burst Time: 159  	XAR: 4C7854   XDI: F70A4    XDO: 9AD351   PC: 9882D0   IR: C70DD2   EMIT: 950754   RR: 92A242   PSW: 7DE958 Register Values:AC261B 9488DC 42BB47 660F22 95A4CC A816B F5B5DC F570C0 
+
+BURST REACHED...now terminating...
+
+ID: 76 Name: proc_39343 State: t   Priority: 14 Arrival Time: 85   CPU Burst Time: 159  	XAR: 566821   XDI: c8fcba   XDO: eb6bdb   PC: a50bf9   IR: 233f5c   EMIT: 92a32d   RR: 6558d6   PSW: 609cbb Register Values:a9bb1e fbbcf2 d9b509 edf649 24240e 40d807 39c987 f40b68 
+
+GLOBAL TIME: 25759
+CPU TIME: 159
+
+STARTING WORK ON: 
+ID: 77 Name: proc_16566 State: e   Priority: 1  Arrival Time: 87   CPU Burst Time: 214  	XAR: A2C4E6   XDI: F24FA4   XDO: 96F016   PC: A3844C   IR: 10DFAA   EMIT: 206920   RR: 28D93C   PSW: 38A19A Register Values:35A071 BAF55B 660AE1 58C6AD E1E9A0 B9F648 13C854 F59A34 
+
+BURST REACHED...now terminating...
+
+ID: 77 Name: proc_16566 State: t   Priority: 1  Arrival Time: 87   CPU Burst Time: 214  	XAR: 992d8d   XDI: 861e56   XDO: 5d64bc   PC: 5715b3   IR: ff16fe   EMIT: 83ecdd   RR: acc03e   PSW: e11f30 Register Values:80078d 525e07 58d6e6 f4e90e 24491d 19c7c5 2fc208 577a04 
+
+GLOBAL TIME: 25974
+CPU TIME: 214
+
+STARTING WORK ON: 
+ID: 78 Name: proc_45585 State: e   Priority: -17 Arrival Time: 88   CPU Burst Time: 31   	XAR: C4CF6D   XDI: B6B113   XDO: 4AFFC4   PC: 9EDB79   IR: 9677F1   EMIT: D04792   RR: 27FC55   PSW: AE1E9F Register Values:ED99B2 1C7A56 C53A27 39DF45 F2C427 8AF63 11B65D 8FA579 
+
+BURST REACHED...now terminating...
+
+ID: 78 Name: proc_45585 State: t   Priority: -17 Arrival Time: 88   CPU Burst Time: 31   	XAR: 49ac31   XDI: f0d385   XDO: aa1509   PC: de1f0e   IR: 668d23   EMIT: 531af1   RR: de487b   PSW: 6ed6b2 Register Values:875d33 d7fe98 3b3fad 9bf1ed f3f30d d2b19b 4670f0 1e9463 
+
+GLOBAL TIME: 26006
+CPU TIME: 31
+
+STARTING WORK ON: 
+ID: 79 Name: proc_62919 State: e   Priority: -12 Arrival Time: 88   CPU Burst Time: 254  	XAR: E75DE4   XDI: B262CC   XDO: BCF397   PC: F288D7   IR: 7491AC   EMIT: 706E6D   RR: C0E4C1   PSW: C0DAEB Register Values:5FEC23 FE2E5C 755200 95AF4E BAF73E 6ADCAD CBB0CC 9A44BC 
+
+BURST REACHED...now terminating...
+
+ID: 79 Name: proc_62919 State: t   Priority: -12 Arrival Time: 88   CPU Burst Time: 254  	XAR: abdbb9   XDI: 82f0ee   XDO: f3e77e   PC: 425902   IR: dc3f27   EMIT: 181dd9   RR: 2926e2   PSW: e59793 Register Values:4cb3b4 3cfa2c 2d2774 17fcbc d64997 6b0e23 c66086 816feb 
+
+GLOBAL TIME: 26261
+CPU TIME: 254
+
+STARTING WORK ON: 
+ID: 80 Name: proc_6529  State: e   Priority: -12 Arrival Time: 88   CPU Burst Time: 79   	XAR: D66073   XDI: 1EA6A9   XDO: D26285   PC: 17E77A   IR: 955E62   EMIT: 8AFCAC   RR: 100B6E   PSW: A615C Register Values:BF181B C889C 41D34B E480 18E821 8DFBF1 D1CED5 D5737B 
+
+BURST REACHED...now terminating...
+
+ID: 80 Name: proc_6529  State: t   Priority: -12 Arrival Time: 88   CPU Burst Time: 79   	XAR: 3c3993   XDI: 95632f   XDO: e8558d   PC: b7ba9c   IR: b5b98c   EMIT: 622370   RR: 6f84f5   PSW: b4b7b4 Register Values:8d938a 65dff2 3bfdf4 a96758 e50f26 c752b4 e7960f 4576fb 
+
+GLOBAL TIME: 26341
+CPU TIME: 79
+
+STARTING WORK ON: 
+ID: 81 Name: proc_56792 State: e   Priority: -14 Arrival Time: 89   CPU Burst Time: 162  	XAR: D83A4E   XDI: BA54F7   XDO: C5B482   PC: 6D751A   IR: AF56DA   EMIT: 2775A0   RR: 38CC53   PSW: 770234 Register Values:298F23 98971B 6E3C45 769501 2F2685 1C6E5A E07F58 68B3C4 
+
+BURST REACHED...now terminating...
+
+ID: 81 Name: proc_56792 State: t   Priority: -14 Arrival Time: 89   CPU Burst Time: 162  	XAR: 10df54   XDI: 9ef27f   XDO: aa7557   PC: 938cf7   IR: cf80e8   EMIT: f42b07   RR: e9945d   PSW: ec6448 Register Values:47e371 da631b 2a2e2d 699385 f650e1 54cfc4 d1a945 76e5f8 
+
+GLOBAL TIME: 26504
+CPU TIME: 162
+
+STARTING WORK ON: 
+ID: 82 Name: proc_54427 State: e   Priority: 8  Arrival Time: 89   CPU Burst Time: 243  	XAR: CBECA    XDI: 57050C   XDO: B6CEEA   PC: 6C9041   IR: 8042E1   EMIT: EC0C42   RR: 44FFB0   PSW: EB208C Register Values:749BD3 2E0C14 447B46 B82C7E 6EE4AC E48A2 BBB0F6 339D6A 
+
+BURST REACHED...now terminating...
+
+ID: 82 Name: proc_54427 State: t   Priority: 8  Arrival Time: 89   CPU Burst Time: 243  	XAR: 38536b   XDI: e11d23   XDO: a8133c   PC: 77df98   IR: bdafd4   EMIT: 501bf1   RR: c492c5   PSW: 74cfd1 Register Values:13fbe7 368f74 5952cd 4d7815 3e76c1 19b92c d69f67 25c550 
+
+GLOBAL TIME: 26748
+CPU TIME: 243
+
+STARTING WORK ON: 
+ID: 83 Name: proc_12778 State: e   Priority: 11 Arrival Time: 90   CPU Burst Time: 75   	XAR: EB33B5   XDI: 2D0D91   XDO: 92EAC1   PC: A9C1AF   IR: E393CB   EMIT: 9611DF   RR: AF1B3    PSW: 347470 Register Values:9182EE 23E84 7AE814 C7FE4 1737B3 E25349 F2081B 882DD2 
+
+BURST REACHED...now terminating...
+
+ID: 83 Name: proc_12778 State: t   Priority: 11 Arrival Time: 90   CPU Burst Time: 75   	XAR: 76e091   XDI: 142468   XDO: 491d95   PC: dc9032   IR: 4c4ee6   EMIT: c4e04a   RR: a2f87b   PSW: 6774c5 Register Values:2ae32a 7c1214 9c8622 918fdd e3f13e 766950 67cf06 d5ce43 
+
+GLOBAL TIME: 26824
+CPU TIME: 75
+
+STARTING WORK ON: 
+ID: 84 Name: proc_8277  State: e   Priority: 19 Arrival Time: 90   CPU Burst Time: 202  	XAR: AC7D44   XDI: 8CCEEE   XDO: F4BE46   PC: 410ED9   IR: 1C5AD0   EMIT: C44285   RR: 959D36   PSW: 8AEEBE Register Values:75F822 22DD99 F02806 9CF66A 36CCEC 89B26E FE3A0E 302DD3 
+
+BURST REACHED...now terminating...
+
+ID: 84 Name: proc_8277  State: t   Priority: 19 Arrival Time: 90   CPU Burst Time: 202  	XAR: b62f1c   XDI: 186d4c   XDO: 237e6d   PC: a2d0e6   IR: eec1d0   EMIT: 1e4406   RR: 71bdd0   PSW: e6d91d Register Values:1dd283 691217 dbc415 cf79f0 b40cc4 1b5199 353b1b 91a879 
+
+GLOBAL TIME: 27027
+CPU TIME: 202
+
+STARTING WORK ON: 
+ID: 85 Name: proc_64457 State: e   Priority: -16 Arrival Time: 93   CPU Burst Time: 295  	XAR: F55FF1   XDI: 3F949D   XDO: 48C216   PC: A76C96   IR: F30E0B   EMIT: DA0E89   RR: 4AE641   PSW: 448F70 Register Values:43501D 78C37C E574EF 83474C CA5E44 1A7406 5D8B8A 1D3097 
+
+BURST REACHED...now terminating...
+
+ID: 85 Name: proc_64457 State: t   Priority: -16 Arrival Time: 93   CPU Burst Time: 295  	XAR: 951d8c   XDI: 74dcd8   XDO: e7f0cd   PC: ddcd8f   IR: f3d5ba   EMIT: 3d7c62   RR: 70e737   PSW: f1d6ee Register Values:822fa3 68c657 b388f0 3d5a65 68ea70 f8596d 591978 e66e56 
+
+GLOBAL TIME: 27323
+CPU TIME: 295
+
+STARTING WORK ON: 
+ID: 86 Name: proc_62140 State: e   Priority: -8 Arrival Time: 93   CPU Burst Time: 67   	XAR: 4F6D34   XDI: B7599B   XDO: 9FEF6D   PC: BFEE85   IR: F1443D   EMIT: 97C270   RR: 12E701   PSW: 89DF7D Register Values:7DCA58 2E2B37 62DFAD 262A81 36E8EB 836BE DD5F66 C44E66 
+
+BURST REACHED...now terminating...
+
+ID: 86 Name: proc_62140 State: t   Priority: -8 Arrival Time: 93   CPU Burst Time: 67   	XAR: 33ea90   XDI: 299759   XDO: dff5ad   PC: 620575   IR: 288db2   EMIT: 7f9cca   RR: f3eea7   PSW: 2f4e37 Register Values:78ec1b c7afc6 99df87 f66830 318ac1 b45bfd 570505 c67803 
+
+GLOBAL TIME: 27391
+CPU TIME: 67
+
+STARTING WORK ON: 
+ID: 87 Name: proc_29183 State: e   Priority: 9  Arrival Time: 93   CPU Burst Time: 29   	XAR: 2D312B   XDI: A296F9   XDO: AC1FF5   PC: 3442EE   IR: EFAD00   EMIT: 3F5448   RR: D9EC88   PSW: 18691C Register Values:6FA8B5 61A639 690B80 9DE2C1 57C7F7 B64613 F760D0 5E8CC6 
+
+BURST REACHED...now terminating...
+
+ID: 87 Name: proc_29183 State: t   Priority: 9  Arrival Time: 93   CPU Burst Time: 29   	XAR: 33c52d   XDI: b3899e   XDO: 53d37c   PC: a94094   IR: f5273e   EMIT: de369c   RR: 45e053   PSW: 6fdcff Register Values:bb6f3e ba9d7e e1abd6 b0ecef 4079cd 60ab13 86452f 33c3d7 
+
+GLOBAL TIME: 27421
+CPU TIME: 29
+
+STARTING WORK ON: 
+ID: 88 Name: proc_59330 State: e   Priority: 11 Arrival Time: 93   CPU Burst Time: 99   	XAR: 158877   XDI: 1FEC5F   XDO: 6AEF32   PC: C9BA2    IR: F2CC1B   EMIT: FF8124   RR: FE8A0E   PSW: 854B34 Register Values:6F92F1 9822FC FCBB75 98FA15 6A3C81 B02097 84CCAB 4E4B7C 
+
+BURST REACHED...now terminating...
+
+ID: 88 Name: proc_59330 State: t   Priority: 11 Arrival Time: 93   CPU Burst Time: 99   	XAR: 188755   XDI: 8e139e   XDO: 2fa73f   PC: db2657   IR: 62b6e1   EMIT: 839bb8   RR: 97c9e4   PSW: d962a8 Register Values:454ff6 4b8204 8f7a9b e49088 1c8241 7b2e8a 9ec533 b0f88d 
+
+GLOBAL TIME: 27521
+CPU TIME: 99
+
+STARTING WORK ON: 
+ID: 89 Name: proc_40139 State: e   Priority: 19 Arrival Time: 93   CPU Burst Time: 250  	XAR: 2BFB35   XDI: 62C493   XDO: A10B86   PC: A1C6B4   IR: E83CD    EMIT: 29F774   RR: A410F0   PSW: 8FF8B Register Values:5D64A8 ED818 33CB8A AB83F0 BBCD60 CB2DB3 411C00 A1C8E5 
+
+BURST REACHED...now terminating...
+
+ID: 89 Name: proc_40139 State: t   Priority: 19 Arrival Time: 93   CPU Burst Time: 250  	XAR: b89815   XDI: f9fa23   XDO: e1785e   PC: 991bf7   IR: 92c0ac   EMIT: b60612   RR: 796a69   PSW: 859374 Register Values:13370b 6401e4 a13dc0 85f6b1 a0d210 df7466 6acfda 4167d8 
+
+GLOBAL TIME: 27772
+CPU TIME: 250
+
+STARTING WORK ON: 
+ID: 90 Name: proc_42988 State: e   Priority: -15 Arrival Time: 94   CPU Burst Time: 261  	XAR: 9CF240   XDI: 98001E   XDO: 43D2B1   PC: B47BCE   IR: 59FB4B   EMIT: F13B74   RR: 2636A4   PSW: 182AA3 Register Values:1A2BB7 98B265 D08FDB 3286 19FAD7 3A8DEC 4A5F1C 3EED94 
+
+BURST REACHED...now terminating...
+
+ID: 90 Name: proc_42988 State: t   Priority: -15 Arrival Time: 94   CPU Burst Time: 261  	XAR: 4be654   XDI: 5bb148   XDO: e7e1ee   PC: af80c6   IR: 9d0fd5   EMIT: 33bce9   RR: 3721db   PSW: 6443a3 Register Values:5e116d 9cf9d1 581ad0 126df9 571749 99727a d0e979 f1c7f3 
+
+GLOBAL TIME: 28034
+CPU TIME: 261
+
+STARTING WORK ON: 
+ID: 91 Name: proc_9422  State: e   Priority: -5 Arrival Time: 94   CPU Burst Time: 26   	XAR: 128C31   XDI: A622CF   XDO: F4F8D    PC: DD5757   IR: 415E8    EMIT: 68B31C   RR: 14D03D   PSW: 3FB6BD Register Values:18BAA C879C7 DFB791 25180C 49879B 6935B2 EF3C56 E5201D 
+
+BURST REACHED...now terminating...
+
+ID: 91 Name: proc_9422  State: t   Priority: -5 Arrival Time: 94   CPU Burst Time: 26   	XAR: 30ff4b   XDI: b47677   XDO: d2f007   PC: 1642dc   IR: 9c8b07   EMIT: c68739   RR: 859765   PSW: 120f2d Register Values:23aca7 dff708 8274d3 9fa2d0 b54400 b6b4b0 429627 f55dc7 
+
+GLOBAL TIME: 28061
+CPU TIME: 26
+
+STARTING WORK ON: 
+ID: 92 Name: proc_60368 State: e   Priority: -10 Arrival Time: 95   CPU Burst Time: 285  	XAR: E4C997   XDI: DF09DC   XDO: 85B2C6   PC: 644DD    IR: 4CA435   EMIT: B433F1   RR: B063E1   PSW: 2ECF12 Register Values:A30DE5 828CEF 5CF93E AA151F C0C61B 48E5D2 1474EA EACE53 
+
+BURST REACHED...now terminating...
+
+ID: 92 Name: proc_60368 State: t   Priority: -10 Arrival Time: 95   CPU Burst Time: 285  	XAR: e87b8f   XDI: c0ad24   XDO: f407f4   PC: c5c716   IR: 4d7940   EMIT: 28d427   RR: bc14a1   PSW: f34fd8 Register Values:51b44a 57ab93 c2ec82 7ea67d 2eefde a027b4 f6da93 8ec2f8 
+
+GLOBAL TIME: 28347
+CPU TIME: 285
+
+STARTING WORK ON: 
+ID: 93 Name: proc_19586 State: e   Priority: 0  Arrival Time: 96   CPU Burst Time: 261  	XAR: A5BA2C   XDI: 191766   XDO: E7EDF9   PC: 41A083   IR: 75AF2C   EMIT: B18C4C   RR: 54B6BD   PSW: 9A04BC Register Values:FD0432 89AF55 A674EC 7FC6B2 A12C6E C7D375 C2C27E 5256BF 
+
+BURST REACHED...now terminating...
+
+ID: 93 Name: proc_19586 State: t   Priority: 0  Arrival Time: 96   CPU Burst Time: 261  	XAR: 6cb7a2   XDI: ac0f13   XDO: ce85a5   PC: 3676b7   IR: 66465c   EMIT: 3c64b2   RR: 77ba3a   PSW: 3f217b Register Values:828960 d0e397 f504da 2ed80a ad009a 4823f5 1f951d ecb937 
+
+GLOBAL TIME: 28609
+CPU TIME: 261
+
+STARTING WORK ON: 
+ID: 94 Name: proc_27367 State: e   Priority: 10 Arrival Time: 96   CPU Burst Time: 183  	XAR: AB656    XDI: C01278   XDO: F2CBAE   PC: B990B1   IR: 5B3CAE   EMIT: CB03B0   RR: C68E6B   PSW: 56F82F Register Values:1F92F7 5215BE FFD39D C40463 BAA938 FE6EAF 795289 88860 
+
+BURST REACHED...now terminating...
+
+ID: 94 Name: proc_27367 State: t   Priority: 10 Arrival Time: 96   CPU Burst Time: 183  	XAR: 5f50f0   XDI: 4818e4   XDO: 7d4d33   PC: f356f6   IR: c39060   EMIT: ce4b37   RR: a8c01e   PSW: 53e81b Register Values:357158 4b4c6d 6c211d 7e083a 12a56b 6c1363 2195c4 19d27e 
+
+GLOBAL TIME: 28793
+CPU TIME: 183
+
+STARTING WORK ON: 
+ID: 95 Name: proc_60727 State: e   Priority: -11 Arrival Time: 97   CPU Burst Time: 173  	XAR: E20972   XDI: 985299   XDO: BBC45B   PC: 5F62F6   IR: 741683   EMIT: 520062   RR: 2F40E7   PSW: C5BCA6 Register Values:B8BF5E 9AAD7F 873CA8 3DC207 A6F39F 7920A1 A519D4 DF40E3 
+
+BURST REACHED...now terminating...
+
+ID: 95 Name: proc_60727 State: t   Priority: -11 Arrival Time: 97   CPU Burst Time: 173  	XAR: bc9431   XDI: b63467   XDO: d982c4   PC: 3fd165   IR: 58e365   EMIT: 500bdf   RR: 49910c   PSW: 78b8be Register Values:fd7a93 ac8ea4 88dec0 17d847 9be248 7b4fdc 49f8ba d3053a 
+
+GLOBAL TIME: 28967
+CPU TIME: 173
+
+STARTING WORK ON: 
+ID: 96 Name: proc_36314 State: e   Priority: 5  Arrival Time: 97   CPU Burst Time: 223  	XAR: D34D2E   XDI: 1ED40    XDO: 86F138   PC: 5836EE   IR: 18F42C   EMIT: 53D560   RR: C4A1D4   PSW: BBBCC7 Register Values:97AF72 3C09BE FF1600 1BD565 7D3939 632E5 E82163 2CBEB4 
+
+BURST REACHED...now terminating...
+
+ID: 96 Name: proc_36314 State: t   Priority: 5  Arrival Time: 97   CPU Burst Time: 223  	XAR: fb36af   XDI: af5b45   XDO: f956e7   PC: 5fcf8a   IR: 797f7d   EMIT: a987f1   RR: 918d7d   PSW: 1c575a Register Values:ba5c4f 3d774a 4d0810 65e63f 17e693 465246 c889b9 3050ce 
+
+GLOBAL TIME: 29191
+CPU TIME: 223
+
+STARTING WORK ON: 
+ID: 97 Name: proc_30570 State: e   Priority: 8  Arrival Time: 97   CPU Burst Time: 191  	XAR: DD08AE   XDI: A1E96E   XDO: AEAEA5   PC: 422D4C   IR: 8EB955   EMIT: 2C15EE   RR: 99D3D7   PSW: 417088 Register Values:E0C2 BE003C 6430C3 4DE7E3 3F55F8 1E82B4 7B8E29 2985E0 
+
+BURST REACHED...now terminating...
+
+ID: 97 Name: proc_30570 State: t   Priority: 8  Arrival Time: 97   CPU Burst Time: 191  	XAR: 6aae45   XDI: dc3d3e   XDO: f1c056   PC: 977be3   IR: ab454b   EMIT: c49f30   RR: 8c327e   PSW: 73b802 Register Values:6b076a 674ca9 8f9133 8fec68 117f6e 78f909 daf96b b602e0 
+
+GLOBAL TIME: 29383
+CPU TIME: 191
+
+STARTING WORK ON: 
+ID: 98 Name: proc_26939 State: e   Priority: -11 Arrival Time: 98   CPU Burst Time: 185  	XAR: C0CC74   XDI: 6EE0E6   XDO: F038F8   PC: 533CFC   IR: AB5328   EMIT: 1B429A   RR: 1870AF   PSW: CDACA4 Register Values:44F3D0 607DD 198DF6 3D95D2 A36B6C 3A4479 5A7FD2 F7C8C7 
+
+BURST REACHED...now terminating...
+
+ID: 98 Name: proc_26939 State: t   Priority: -11 Arrival Time: 98   CPU Burst Time: 185  	XAR: 20a300   XDI: f07412   XDO: e25f21   PC: fa3230   IR: 4f9ad3   EMIT: b3fdc4   RR: dd52a9   PSW: 566657 Register Values:ae66c9 e58205 3aa85b b42bb7 ce722c 7297bd 203b99 23c094 
+
+GLOBAL TIME: 29569
+CPU TIME: 185
+
+STARTING WORK ON: 
+ID: 99 Name: proc_8136  State: e   Priority: 7  Arrival Time: 98   CPU Burst Time: 62   	XAR: C2CF8B   XDI: 38CC68   XDO: F29687   PC: 1295BF   IR: F8E1ED   EMIT: 4C8E7B   RR: BAB4A5   PSW: 98346 Register Values:50002F 9B9C4C 3B2887 3E11DD A11B10 5C8459 2AA9ED 9701A0 
+
+BURST REACHED...now terminating...
+
+ID: 99 Name: proc_8136  State: t   Priority: 7  Arrival Time: 98   CPU Burst Time: 62   	XAR: 86ed2c   XDI: 34205c   XDO: 7d2c52   PC: a7e06a   IR: fa666e   EMIT: dee362   RR: 17131b   PSW: 2a2476 Register Values:7d532a 1d3f86 f68737 9834fd 5d05a0 24921c 70326e f3b53a 
+
